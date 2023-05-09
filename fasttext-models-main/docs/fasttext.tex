@@ -1,0 +1,491 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames*,x11names*}{xcolor}
+%
+\documentclass[
+  spanish,
+]{article}
+\usepackage{lmodern}
+\usepackage{amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+  \usepackage{amssymb}
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Modelos de lenguaje distribucionales sobre el corpus de entrevistas},
+  pdfauthor={Vladimir Vargas Calderón},
+  pdflang={es-CO},
+  pdfkeywords={Modelo de lenguaje, FastText},
+  colorlinks=true,
+  linkcolor=Maroon,
+  filecolor=Maroon,
+  citecolor=Blue,
+  urlcolor=blue,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{cleveref}
+\usepackage{amsmath}
+\usepackage{bm}
+\crefname{section}{sección}{secciones}
+\Crefname{section}{La sección}{Las secciones}
+\ifxetex
+  % Load polyglossia as late as possible: uses bidi with RTL langages (e.g. Hebrew, Arabic)
+  \usepackage{polyglossia}
+  \setmainlanguage[]{spanish}
+\else
+  \usepackage[shorthands=off,main=spanish]{babel}
+\fi
+\ifluatex
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[numbers]{natbib}
+\bibliographystyle{chicago}
+
+\title{Modelos de lenguaje distribucionales sobre el corpus de
+entrevistas\footnote{El presente informe se entrega como cumplimiento de
+  la etapa 4 del \textbf{plan de trabajo} realizado por Vladimir Vargas
+  Calderón y aprobado por la Comisión y el PNUD, por medio del contrato
+  0000046508.}}
+\author{Vladimir Vargas Calderón\footnote{
+  \url{vladimir.vargas@comisiondelaverdad.co}}}
+\date{27 de marzo de 2021}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+En este documento se reporta la creación de un recurso lingüístico
+asociado a las entrevistas de la Comisión para el Esclarecimiento de la
+Verdad, la Convivencia y la No Repetición (CEV) que permite representar
+vectorialmente el texto. Dicho recurso lingüístico fue creado mediante
+el modelo de \emph{word embeddings} FastText. Se obtiene, por lo tanto,
+la representación vectorial de palabras encontradas en los relatos de
+las personas entrevistadas en las distintas regiones del país,
+constituyendo no solo una herramienta para la explotación de textos en
+la CEV, sino una herramienta lingüística de gran valor a nivel nacional,
+que incluye representación de palabras características de lugares y
+grupos poblacionales de Colombia y sus regiones. Este documento, por lo
+tanto tiene como objetivo mostrar aspectos teóricos del recurso
+lingüistico generado que será explotado en el futuro cercano dentro de
+la CEV.
+\end{abstract}
+
+\section{Introducción}
+
+Dentro del equipo de texto de la Comisión para el Esclarecimiento de la
+Verdad, la Convivencia y la No Repetición (CEV), hemos decidido
+construir un recurso lingüístico que permite tener un mapa de
+``strings'', en el sentido computacional de la palabra, a vectores en un
+espacio vectorial \(\mathbb{R}^N\) con dimensión \(N\). A este tipo de
+recursos lingüísticos se les conoce como \emph{word embeddings}
+\citep{zamani2016embedding} y facilitan realizar diversas tareas como
+clasificación, clustering, regresión, entre otros. El primer modelo de
+lenguaje que produjo \emph{word embeddings} de forma exitosa y popular
+en el mundo fue Word2Vec
+\citep{mikolov2013efficient, mikolov2013distributed, mikolov2013linguistic}.
+Este modelo concretó ideas de la teoría distribucional lingüística en la
+que las palabras tienen sentido gracias a su correlación y co-ocurrencia
+con otras palabras: el significado depende del contexto en el que se
+usan las palabras
+\citep{harris1954distributional, sahlgren2008distributional}.
+
+La posibilidad de tener un mapa que nos lleva del espacio de los textos
+a un espacio vectorial de dimension fija \(N\) permite incluir el texto
+como características numéricas que pueden alimentar cualquier modelo
+estadístico (o de machine learning). Usualmente, distintas tareas de
+machine learning requieren de un input dado con un conjunto de
+características fijo para producir un output. En este caso, el conjunto
+de características de input son las mismas componentes de la
+representación vectorial de los textos. Dichas tareas incluyen análisis
+de sentimientos en donde se espera clasificar un texto en aspectos de
+opinión positivos o negativos \citep{tang2014learning}; modelamiento de
+temas, en donde se espera descubrir qué temas latentes existen dentro de
+un corpus de texto, i.e.~una colección de representaciones vectoriales
+para cada texto \citep{li2016topic, yi2020topic}; estimación de puntajes
+de algún producto según un texto dado \citep{suryadi2018systematic};
+entre otros.
+
+Aún más, la construcción de este tipo de modelos de lenguaje, permite
+realizar operaciones entre palabras que dan cuenta de recursos
+lingüísticos muy interesantes. Uno de ellos es la analogía, en donde se
+intenta encontrar una palabra \(X\) que satisfaga \(A\) es a \(B\) como
+\(C\) es a \(X\), con las palabras \(A,B,C\) dadas
+\citep{hartmann2017portuguese}. Cada palabra, según el modelo de
+lenguaje, tendrá una representación vectorial:
+\(\vec{x}_A,\vec{x}_B,\vec{x}_C\in\mathbb{R}^N\), y la palabra \(X\) se
+encuentra mediante el cálculo de
+\(\vec{x}_{\tilde{X}} := \vec{x}_A-\vec{x}_B+\vec{x}_C\), y la posterior
+búsqueda de una palabra \(X\) del conjunto de palabras \(V\) en el
+modelo de lenguaje, tal que
+\(||\vec{x}_{\tilde{X}}-\vec{x}_X|| = \min_{Y\in V}(||\vec{x}_{\tilde{X}}-\vec{x}_Y||)\).
+
+Este documento presenta la metodología seguida para construir el recurso
+lingüístico de \emph{word embedding} aplicado al corpus de entrevistas
+de la CEV. Para ello se siguieron dos grandes pasos metodológicos: en la
+\cref{sec:preprocess} se explica detalladamente el proceso de
+preprocesamiento de texto. Después, en la \cref{sec:fasttext} se explica
+conceptualmente el modelo FastText
+\citep{joulin2016fasttext, joulin2016bag, bojanowski2016enriching}, que
+es una evolución computacional y lingüística de Word2Vec.
+
+\section{Preprocesamiento}
+\label{sec:preprocess}
+
+En la CEV hemos construido una librería de Python para realizar
+preprocesamiento de texto llamada \texttt{preprocess}, actualmente en su
+versión
+\href{https://gitlab.com/nlp-comision/text-preprocessing/-/releases/v0.0.2}{\texttt{v0.0.2}}.
+El preprocesamiento de texto tiene como finalidad disminuir la
+variabilidad lingüística de un texto, y la retención de aquellas
+palabras que aportan a la semántica del mismo. En particular, los pasos
+realizados en el preprocesamiento por la librería \texttt{preprocess}
+son:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Normalización de codificación del texto}. Debido a las
+  distintas codificaciones de texto, estandarizar y normalizar esta
+  codificación puede ser importante para pasos posteriores del
+  preprocesamiento.
+\item
+  \textbf{Caracteres alfabéticos a minúsculas}. Para disminuir la
+  variabilidad del texto se pasa el texto a minúsculas. Esto se hace
+  debido a que ``Asesinato'' y ``asesinato'' hacen referencia a lo mismo
+  para el lector humano, pero son palabras diferentes para el
+  computador.
+\item
+  \textbf{Remoción de puntuación}. En principio no nos interesa la
+  puntuación, sino únicamente una cadena de palabras que tienen
+  significado por las palabras a su alrededor. La única ``puntuación''
+  que nos interesa es el cambio de párrafo por un punto y aparte, ya que
+  usualmente los párrafos son grupos de ideas. En las entrevistas, los
+  párrafos corresponden a intervenciones de los interlocutores. Por este
+  motivo, nos interesa concatenar todas las oraciones de un mismo
+  párrafo como si fuera una gran oración.
+\item
+  \textbf{Remoción de \textit{stopwords}}. Algunas palabras no aportan
+  al significado o las relaciones entre palabras importantes
+  (e.g.~sujetos, verbos, adjetivos). A las palabras que no aportan las
+  llamamos \emph{stopwords}. Entre ellas se encuentran palabras como la,
+  el, como, donde, algún, entre otros.
+\item
+  \textbf{Lematización}. Este es un proceso clave del preprocesamiento:
+  se lleva cada palabra a su lema, que es la forma canónica, la forma de
+  diccionario de una palabra. Por ejemplo, el lema ``ir'' representa
+  todas las siguientes formas flexionadas: ``voy'', ``yendo'',
+  ``vamos'', entre otros. Para realizar la lematización se utiliza el
+  framework que provee la librería spaCy.
+\item
+  \textbf{Tokenización}. Usualmente, para la realización de algunas de
+  las tareas de preprocesamiento anteriormente descritas es necesario
+  convertir una cadena de texto en una lista de textos pequeños,
+  llamados \emph{tokens}, que son la mínima partición de caracteres del
+  texto que posee un significado. Para textos ``bien escritos'', estos
+  \emph{tokens} son palabras y signos de puntuación. En contextos de
+  redes sociales, emoticones o risas (``jajaja'') también son
+  \emph{tokens}. Otros elementos pueden ser definidos como tokens, tales
+  como colocaciones comunes, e.g.~``gracias a Dios'', puede ser
+  tokenizado a ``gracias\_a\_Dios''.
+\end{itemize}
+
+La librería `preprocess' permite realizar estos pasos de
+preprocesamiento de forma muy sencilla. Por ejemplo, la librería, así
+como un modelo de lenguaje natural (que incluye tokenización y
+lematización) de spaCy pueden ser cargados de la siguiente manera:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\ImportTok{from}\NormalTok{ preprocess }\ImportTok{import}\NormalTok{ PreprocessPipeline}
+\ImportTok{import}\NormalTok{ spacy}
+
+\NormalTok{nlp }\OperatorTok{=}\NormalTok{ spacy.load(}\StringTok{"es\_core\_news\_sm"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+Después, se puede definir un pipeline de preprocesamiento mediante
+\texttt{pp\ =\ PreprocessPipeline(nlp=nlp)}. La clase
+\texttt{PreprocessPipeline} permite inicializar objetos con una serie de
+opciones. La función de inicialización y su documentación se presenta a
+continuación:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\KeywordTok{def} \FunctionTok{\_\_init\_\_}\NormalTok{(}
+    \VariableTok{self}\NormalTok{,}
+\NormalTok{    normalise: }\BuiltInTok{bool} \OperatorTok{=} \VariableTok{True}\NormalTok{,}
+\NormalTok{    lower: }\BuiltInTok{bool} \OperatorTok{=} \VariableTok{True}\NormalTok{,}
+\NormalTok{    remove\_punctuation: }\BuiltInTok{bool} \OperatorTok{=} \VariableTok{True}\NormalTok{,}
+\NormalTok{    remove\_stopwords: }\BuiltInTok{bool} \OperatorTok{=} \VariableTok{True}\NormalTok{,}
+\NormalTok{    lemmatise: }\BuiltInTok{bool} \OperatorTok{=} \VariableTok{True}\NormalTok{,}
+\NormalTok{    tokenise: }\BuiltInTok{bool} \OperatorTok{=} \VariableTok{True}\NormalTok{,}
+\NormalTok{    string\_punctuation: }\BuiltInTok{bool} \OperatorTok{=} \VariableTok{True}\NormalTok{,}
+\NormalTok{    symbols: List[}\BuiltInTok{str}\NormalTok{] }\OperatorTok{=} \VariableTok{None}\NormalTok{,}
+\NormalTok{    language: }\BuiltInTok{str} \OperatorTok{=} \StringTok{"spanish"}\NormalTok{,}
+\NormalTok{    additional\_stopwords: Union[}\BuiltInTok{str}\NormalTok{, List[}\BuiltInTok{str}\NormalTok{]] }\OperatorTok{=} \VariableTok{None}\NormalTok{,}
+\NormalTok{    mwes: Union[}\BuiltInTok{str}\NormalTok{, List[}\BuiltInTok{str}\NormalTok{]] }\OperatorTok{=} \VariableTok{None}\NormalTok{,}
+\NormalTok{    mwe\_tokeniser: MWETokenizer }\OperatorTok{=} \VariableTok{None}\NormalTok{,}
+\NormalTok{    nlp: spacy.Language }\OperatorTok{=} \VariableTok{None}\NormalTok{,}
+\NormalTok{):}
+    \CommentTok{"""}
+\CommentTok{    Initialises a preprocessing pipeline.}
+
+\CommentTok{    Parameters}
+\CommentTok{    {-}{-}{-}{-}{-}{-}{-}{-}{-}{-}}
+\CommentTok{    normalise: bool}
+\CommentTok{        Whether to normalise text with a proper encoding.}
+\CommentTok{    lower: bool}
+\CommentTok{        Whether to lowercase text.}
+\CommentTok{    remove\_punctuation: bool}
+\CommentTok{        Whether to remove punctuation.}
+\CommentTok{    remove\_stopwords: bool}
+\CommentTok{        Whether to remove stopwords.}
+\CommentTok{    lemmatise: bool}
+\CommentTok{        Whether to perform lemmatisation.}
+\CommentTok{    tokenise: bool}
+\CommentTok{        Whether to tokenise text or not.}
+\CommentTok{    Other args are defined in the functions from \textasciigrave{}preprocess.preprocess\textasciigrave{}}
+\CommentTok{    """}
+\end{Highlighting}
+\end{Shaded}
+
+Sin embargo, con la inicialización del objeto anteriormente presentada
+es posible no solamente preprocesar textos individuales, sino
+preprocesar textos aprovechando todos los núcleos de preprocesamiento de
+la máquina, realizando computos distribuidos sobre todos los hilos:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# Definición del pipeline}
+\NormalTok{pp }\OperatorTok{=}\NormalTok{ PreprocessPipeline(nlp}\OperatorTok{=}\NormalTok{nlp)}
+\CommentTok{\# Ejemplo de un texto:}
+\BuiltInTok{print}\NormalTok{(pp(}\StringTok{"hola amiguitos! qué tal todo?"}\NormalTok{))}
+\CommentTok{\# Ejemplo de mil textos procesados en 3 hilos de forma paralela}
+\BuiltInTok{print}\NormalTok{(pp([}\StringTok{"hola amiguitos! qué tal todo?"}\NormalTok{]}\OperatorTok{*}\DecValTok{1000}\NormalTok{, num\_cpus}\OperatorTok{=}\DecValTok{3}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+en donde se usan 3 CPUs.
+
+\hypertarget{fasttextref_to_booking}{%
+\section[FastText]{\texorpdfstring{FastText\footnote{Esta sección está
+  basada en la última versión del trabajo divulgado en un trabajo de la
+  autoría de Vladimir Vargas-Calderón, llamado \emph{``Machine learning
+  for assessing quality of service in the hospitality sector based on
+  customer reviews''}, que está en rondas de revisión en la revista
+  \emph{Information Technology \& Tourism}.}}{FastText}}\label{fasttextref_to_booking}}
+
+\label{sec:fasttext}
+
+FastText es una librería que crea \emph{word embeddings}. Esto significa
+que un string \(s\) es mapeada a un vector en un espacio vectorial
+\(\mathbb{R}^N\). El método de FastText comparte las ideas de
+embebimiento de otros modelos anteriores como Word2Vec
+\citep{bojanowski2016enriching, joulin2016bag, mikolov2013distributed}.
+A continuación, se mostrarán las ideas generales de cómo se construye un
+\emph{word embedding}. El lector interesado en más detalles es referido
+a artículos como
+\citep{dyer2014notes, goldberg2014word2vec, vargas2019characterization},
+en donde se muestra formalmente el método con detalle matemático.
+
+Considere un conjunto de textos o documentos \(\mathcal{D}\). Podemos
+crear un conjunto llamado vocabulario \(\mathcal{V}\) como el conjunto
+de todas las palabras contenidas en los documentos presentes en
+\(\mathcal{D}\). Podemos ordenar el conjunto \(\mathcal{V}\) de manera
+arbitraria, pero por simplicidad, asumimos que tenemos un vocabulario
+ordenado alfabéticamente. Sea \(V=|\mathcal{V}|\) el tamaño del
+vocabulario. Considere un mapa de codificación \emph{one-hot}
+\begin{align}
+\phi:\mathcal{V}&\to\{0,1 \}^V\subset \mathbb{R}^V\\
+w_i&\mapsto \phi(w_i) = \vec{\phi}_i
+\end{align}
+
+definido como una función que toma el \(i\)-ésimo elemento del
+vocabulario (en el orden alfabético preestablecido) y lo mapea a un
+vector \(\vec{\phi}_i\) cuya única componente distinta de 0 es la
+\(i\)-ésima componente, tomando el valor 1. El embebimiento, es definido
+como una matriz \(W\) de tamaño \(N\times V\) que toma un vector del
+vocabulario codificado por medio de la función \emph{one-hot} \(\phi\),
+y lo lleva a un vector en el espacio embebido \(\mathbb{R}^N\), en donde
+\(N \ll V\). En general el vector en el espacio embebido es denso.
+
+Por lo tanto, el embebimiento se lleva a cabo, para una palabra
+cualquiera del vocabulario \(w_i\in\mathcal{V}\), por medio de la
+operación \(W\phi(w_i) = W\vec{\phi}_i\). Note que, debido a la
+construcción de la función \(\phi\), esta operación indica la selección
+de la \(i\)-ésima columna de \(W\). La característica principal de este
+modelo de embebimiento es que palabras que sean semánticamente
+similares, tendrán representaciones vectoriales similares en el espacio
+embebido. Formalmente esto significa que \begin{align}
+\frac{\vec{w}_i\cdot \vec{w}_j}{(||\vec{w}_i|| \, ||\vec{w}_j||)} \approx 1
+\end{align} para palabras similares \(w_i,w_j\in\mathcal{V}\).
+
+Naturalmente, una pregunta a responder es: ¿cómo puede uno medir
+similitud semántica? \citet{mikolov2013distributed} definen la similitud
+semántica mediante un problema de predicción que tiene su orígen en la
+hipótesis distribucional de la lingüística
+\citep{harris1954distributional}, que postula que palabras
+semánticamente similares se utilizan en contextos similares. Por
+ejemplo, se espera que las palabras ``cortesía'' y ``amabilidad''
+compartan representaciones vectoriales similares debido a que pueden ser
+encontradas en textos con contextos similares. El contexto se define
+formalmente como el conjunto de palabras que rodean una palabra de
+interés. La cantidad de palabras alrededor de la palabra de interés
+tenidas en cuenta dentro del contexto usualmente se conoce como el
+tamaño del contexto. La definición del contexto nos permite postular el
+problema de predicción que define la similitud semántica: dado un
+contexto alrededor de una palabra de interés \(w_i\), ¿se puede predecir
+que la palabra de interés es \(w_i\)? O, similarmente, dada una palabra
+de interés \(w_i\), ¿se puede predecir su contexto? Estas dos preguntas
+son dos modos o configuraciones de las arquitecturas tipo Word2Vec, y se
+conocen como la bolsa de palabras continua (CBOW) o el \emph{skip-gram},
+respectivamente.
+
+Como ejemplo, consideremos la configuración CBOW. Consideremos una parte
+de una oración que consiste de una palabra de interés \(w\) (note que
+eliminamos el sub-índice) y un contexto de tamaño 4:
+\(w_1\,w_2\,w\,w_3\,w_4\). Usaremos las palabras del contexto para
+predecir la palabra de interés. Esto se realiza primero promediando el
+vector de representación de las palabras de contexto: \begin{align}
+\vec{w}_c := \frac{1}{4}\sum_{i=1}^4 W\phi(w_i) = \frac{1}{4}\sum_{i=1}^4 \vec{w}_i.
+\end{align} La predicción de la palabra de interés se realiza\footnote{Aquí
+  la predicción se realiza con la misma matriz \(W\). Sin embargo, en la
+  práctica, hay dos matrices \(W_1\) y \(W_2\), cada una correspondiente
+  a un embebimiento. De esta manera, la predicción realmente se realiza
+  mediante \(W_2\vec{w}_c = \frac{1}{4}W_2\sum_{i=1}^4 W_1\phi(w_i)\).}
+calculando \(W^T \vec{w}_c\), que debería ser igual a la representación
+\emph{one-hot} de la palabra \(w\), es decir, a \(\vec{\phi}_w\). Los
+elementos de matriz de \(W\) pueden ser aprendidos mediante cualquier
+algoritmo de minimización de una función de pérdida, como la entropía
+cruzada categórica, construida muestreando pares de tipo palabra de
+interés, palabras de contexto, y prediciendo palabras de interés dadas
+sus palabras de contexto.
+
+FastText eleva esta idea recién presentada para aprender embebimientos
+de información encontrada en sub-palabras. En vez de lidiar con un
+vocabulario de palabras, FastText considera un vocabulario de cadenas de
+\(n\) caracteres. Para entender esto, consideremos una oración que
+contiene la palabra ``cortesía''. Definimos dos caracteres especiales
+\(\langle\) y \(\rangle\) para marcar donde una palabra comienza y donde
+termina. De esta manera, ``cortesía'' se transforma en
+``\(\langle\)cortesía\(\rangle\)''. Si consideramos cadenas de 5
+caracteres, obtenemos la siguiente descomposición de ``cortesía'':
+
+\begin{itemize}
+\tightlist
+\item
+  \(\langle\)cort
+\item
+  corte
+\item
+  ortes
+\item
+  rtesí
+\item
+  tesía
+\item
+  esía\(\rangle\)
+\end{itemize}
+
+Ahora, se aprenden representaciones vectoriales para cada una de las
+cadenas de 5 caracteres encontradas en el vocabulario, de la misma
+manera en que se hacía con las palabras de contexto. Ahora, la
+representación de una palabra es el promedio de la representación de las
+cadenas que forman su descomposición. Esto puede ser extendido para
+representar oraciones también promediando las representaciones de sus
+palabras. Este modelo es muy potente debido a que permite construir
+representaciones vectoriales de palabras nunca antes vistas en el
+corpus.
+
+En el \href{https://gitlab.com/nlp-comision/fasttext-models}{repositorio
+de FastText de la CEV} se encuentra, por el momento, disponibilizado un
+modelo de FastText para realizar tareas asociadas a machine learning
+utilizando representaciones vectoriales del texto.
+
+  \bibliography{references/sample.bib}
+
+\end{document}
