@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Graph Result</title>
+</head>
+<body>
+    <h1>Process: {{result['name']}}</h1>
+    <ul id="navigation">
+    {% for item in result['list_files'] %}
+        <li><a href="/graph_process/{{result['name']}}/{{ item }}">{{ item }}</a></li>
+    {% endfor %}
+    </ul>
+
+
+    {{ a_variable }}
+
+    {# a comment #}
+</body>
+</html>

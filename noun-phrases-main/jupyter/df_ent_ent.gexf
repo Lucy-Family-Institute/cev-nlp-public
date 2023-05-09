@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-03-16">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="salvatore mancuso gómez" label="salvatore mancuso gómez" />
+      <node id="miguel ramón posada castillo" label="miguel ramón posada castillo" />
+      <node id="oscar david polo charris" label="oscar david polo charris" />
+      <node id="criminalístico vii" label="criminalístico vii" />
+      <node id="ricardo lacera zapata registro" label="ricardo lacera zapata registro" />
+      <node id="gustavo rafael ruiz cantillo" label="gustavo rafael ruiz cantillo" />
+      <node id="alberto martínez macea" label="alberto martínez macea" />
+      <node id="martin toro cañavera" label="martin toro cañavera" />
+      <node id="ingrid esther cantillo fuentes" label="ingrid esther cantillo fuentes" />
+      <node id="bahía honda" label="bahía honda" />
+      <node id="no139332 denuncia" label="no139332 denuncia" />
+      <node id="marlen ascanio pabón" label="marlen ascanio pabón" />
+      <node id="kevin antonio paz ascanio" label="kevin antonio paz ascanio" />
+      <node id="la mata de aguachica-cesar" label="la mata de aguachica-cesar" />
+      <node id="john luís aldana martínez" label="john luís aldana martínez" />
+      <node id="cesar orlando contreras" label="cesar orlando contreras" />
+      <node id="ramón eliécer contreras" label="ramón eliécer contreras" />
+      <node id="maría teresa" label="maría teresa" />
+      <node id="ramon contreras" label="ramon contreras" />
+      <node id="pedro jaraba" label="pedro jaraba" />
+      <node id="gladis elena lora sánchez" label="gladis elena lora sánchez" />
+      <node id="rodrigo ahumada lomando" label="rodrigo ahumada lomando" />
+      <node id="willinton mora buenhaber" label="willinton mora buenhaber" />
+      <node id="rodrigo alfonso ahumada lomanto" label="rodrigo alfonso ahumada lomanto" />
+      <node id="rodrigo alfonso ahumada" label="rodrigo alfonso ahumada" />
+      <node id="nubia stella monroy rodríguez" label="nubia stella monroy rodríguez" />
+      <node id="willington mora buenhaber" label="willington mora buenhaber" />
+      <node id="josé alejandro lacera campo" label="josé alejandro lacera campo" />
+      <node id="josé toro vega" label="josé toro vega" />
+      <node id="marta cristina" label="marta cristina" />
+      <node id="josé gregorio rojas" label="josé gregorio rojas" />
+      <node id="señor hernán giraldo serna" label="señor hernán giraldo serna" />
+      <node id="rubén giraldo" label="rubén giraldo" />
+      <node id="taganga- magdalena" label="taganga- magdalena" />
+      <node id="hernán giraldo" label="hernán giraldo" />
+      <node id="josé gregorio" label="josé gregorio" />
+      <node id="adriano sánchez" label="adriano sánchez" />
+      <node id="rafael antonio" label="rafael antonio" />
+      <node id="maría mercedes matos" label="maría mercedes matos" />
+      <node id="juan raicar varela silva" label="juan raicar varela silva" />
+      <node id="héctor julio ortiz salcedo" label="héctor julio ortiz salcedo" />
+      <node id="edgar ignacio fierro florez" label="edgar ignacio fierro florez" />
+      <node id="héctor julio" label="héctor julio" />
+      <node id="pablo taborda yance" label="pablo taborda yance" />
+      <node id="osvaldo antonio martínez cantillo" label="osvaldo antonio martínez cantillo" />
+      <node id="taborda yance" label="taborda yance" />
+      <node id="osvaldo antonio martínez" label="osvaldo antonio martínez" />
+      <node id="rafael eduardo julio" label="rafael eduardo julio" />
+      <node id="manifestó yance él vivía" label="manifestó yance él vivía" />
+      <node id="pedro luis castro escorcia" label="pedro luis castro escorcia" />
+      <node id="jairo antonio castro escorcia" label="jairo antonio castro escorcia" />
+      <node id="jesús escorcia zarate" label="jesús escorcia zarate" />
+      <node id="reynaldo escorcia" label="reynaldo escorcia" />
+      <node id="jairo antonio castro" label="jairo antonio castro" />
+      <node id="edgar ignacio fierro flores" label="edgar ignacio fierro flores" />
+      <node id="jair josé martes reyes" label="jair josé martes reyes" />
+      <node id="evaristo josé mendoza rodríguez" label="evaristo josé mendoza rodríguez" />
+      <node id="roberto rafael racedo mercado" label="roberto rafael racedo mercado" />
+      <node id="alexander pedroza rojano" label="alexander pedroza rojano" />
+      <node id="rafael josé segura gómez" label="rafael josé segura gómez" />
+      <node id="rafael josé segura" label="rafael josé segura" />
+      <node id="carlos romero cuartas" label="carlos romero cuartas" />
+      <node id="erwin cepeda calao" label="erwin cepeda calao" />
+      <node id="ricardo lidueña iglesia" label="ricardo lidueña iglesia" />
+      <node id="jorge ignacio" label="jorge ignacio" />
+      <node id="eduardo rafael" label="eduardo rafael" />
+      <node id="randi escobar morales" label="randi escobar morales" />
+      <node id="darwin antonio tejada" label="darwin antonio tejada" />
+      <node id="josé luís moreno murillo" label="josé luís moreno murillo" />
+      <node id="josé luis" label="josé luis" />
+      <node id="hernando elías gutiérrez peláez" label="hernando elías gutiérrez peláez" />
+      <node id="álvaro león peláez ortiz" label="álvaro león peláez ortiz" />
+      <node id="alias robert" label="alias robert" />
+    </nodes>
+    <edges>
+      <edge source="salvatore mancuso gómez" target="miguel ramón posada castillo" id="0" />
+      <edge source="salvatore mancuso gómez" target="reynaldo escorcia" id="1" />
+      <edge source="salvatore mancuso gómez" target="edgar ignacio fierro flores" id="2" />
+      <edge source="salvatore mancuso gómez" target="carlos romero cuartas" id="3" />
+      <edge source="miguel ramón posada castillo" target="oscar david polo charris" id="4" />
+      <edge source="criminalístico vii" target="ricardo lacera zapata registro" id="5" />
+      <edge source="gustavo rafael ruiz cantillo" target="alberto martínez macea" id="6" />
+      <edge source="alberto martínez macea" target="martin toro cañavera" id="7" />
+      <edge source="ingrid esther cantillo fuentes" target="bahía honda" id="8" />
+      <edge source="bahía honda" target="no139332 denuncia" id="9" />
+      <edge source="marlen ascanio pabón" target="kevin antonio paz ascanio" id="10" />
+      <edge source="la mata de aguachica-cesar" target="john luís aldana martínez" id="11" />
+      <edge source="cesar orlando contreras" target="ramón eliécer contreras" id="12" />
+      <edge source="cesar orlando contreras" target="maría teresa" id="13" />
+      <edge source="ramón eliécer contreras" target="maría teresa" id="14" />
+      <edge source="ramon contreras" target="pedro jaraba" id="15" />
+      <edge source="gladis elena lora sánchez" target="rodrigo ahumada lomando" id="16" />
+      <edge source="willinton mora buenhaber" target="rodrigo alfonso ahumada lomanto" id="17" />
+      <edge source="rodrigo alfonso ahumada" target="nubia stella monroy rodríguez" id="18" />
+      <edge source="rodrigo alfonso ahumada" target="willington mora buenhaber" id="19" />
+      <edge source="nubia stella monroy rodríguez" target="willington mora buenhaber" id="20" />
+      <edge source="josé alejandro lacera campo" target="josé toro vega" id="21" />
+      <edge source="josé alejandro lacera campo" target="marta cristina" id="22" />
+      <edge source="josé toro vega" target="marta cristina" id="23" />
+      <edge source="josé gregorio rojas" target="señor hernán giraldo serna" id="24" />
+      <edge source="josé gregorio rojas" target="rubén giraldo" id="25" />
+      <edge source="josé gregorio rojas" target="rafael antonio" id="26" />
+      <edge source="josé gregorio rojas" target="maría mercedes matos" id="27" />
+      <edge source="señor hernán giraldo serna" target="rubén giraldo" id="28" />
+      <edge source="taganga- magdalena" target="hernán giraldo" id="29" />
+      <edge source="taganga- magdalena" target="josé gregorio" id="30" />
+      <edge source="taganga- magdalena" target="adriano sánchez" id="31" />
+      <edge source="hernán giraldo" target="josé gregorio" id="32" />
+      <edge source="hernán giraldo" target="adriano sánchez" id="33" />
+      <edge source="josé gregorio" target="adriano sánchez" id="34" />
+      <edge source="rafael antonio" target="maría mercedes matos" id="35" />
+      <edge source="juan raicar varela silva" target="héctor julio ortiz salcedo" id="36" />
+      <edge source="edgar ignacio fierro florez" target="héctor julio" id="37" />
+      <edge source="pablo taborda yance" target="osvaldo antonio martínez cantillo" id="38" />
+      <edge source="pablo taborda yance" target="taborda yance" id="39" />
+      <edge source="pablo taborda yance" target="osvaldo antonio martínez" id="40" />
+      <edge source="taborda yance" target="osvaldo antonio martínez" id="41" />
+      <edge source="rafael eduardo julio" target="manifestó yance él vivía" id="42" />
+      <edge source="rafael eduardo julio" target="jorge ignacio" id="43" />
+      <edge source="rafael eduardo julio" target="josé luis" id="44" />
+      <edge source="rafael eduardo julio" target="alias robert" id="45" />
+      <edge source="pedro luis castro escorcia" target="jairo antonio castro escorcia" id="46" />
+      <edge source="pedro luis castro escorcia" target="jesús escorcia zarate" id="47" />
+      <edge source="jairo antonio castro escorcia" target="jesús escorcia zarate" id="48" />
+      <edge source="jairo antonio castro escorcia" target="jairo antonio castro" id="49" />
+      <edge source="jair josé martes reyes" target="evaristo josé mendoza rodríguez" id="50" />
+      <edge source="jair josé martes reyes" target="roberto rafael racedo mercado" id="51" />
+      <edge source="jair josé martes reyes" target="alexander pedroza rojano" id="52" />
+      <edge source="evaristo josé mendoza rodríguez" target="roberto rafael racedo mercado" id="53" />
+      <edge source="evaristo josé mendoza rodríguez" target="alexander pedroza rojano" id="54" />
+      <edge source="roberto rafael racedo mercado" target="alexander pedroza rojano" id="55" />
+      <edge source="rafael josé segura gómez" target="rafael josé segura" id="56" />
+      <edge source="erwin cepeda calao" target="ricardo lidueña iglesia" id="57" />
+      <edge source="eduardo rafael" target="randi escobar morales" id="58" />
+      <edge source="darwin antonio tejada" target="josé luís moreno murillo" id="59" />
+      <edge source="hernando elías gutiérrez peláez" target="álvaro león peláez ortiz" id="60" />
+    </edges>
+  </graph>
+</gexf>

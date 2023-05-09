@@ -1,0 +1,153 @@
+,Nombres,Relaciones,count
+0,salvatore mancuso gómez,miguel ramón posada castillo,1
+1,miguel ramón posada castillo,salvatore mancuso gómez,1
+2,oscar david polo charris,miguel ramón posada castillo,1
+3,miguel ramón posada castillo,oscar david polo charris,1
+4,criminalístico vii,ricardo lacera zapata registro,1
+5,ricardo lacera zapata registro,criminalístico vii,1
+6,gustavo rafael ruiz cantillo,alberto martínez macea,1
+7,alberto martínez macea,gustavo rafael ruiz cantillo,1
+8,alberto martínez macea,gustavo rafael ruiz cantillo,1
+9,gustavo rafael ruiz cantillo,alberto martínez macea,1
+10,martin toro cañavera,alberto martínez macea,1
+11,alberto martínez macea,martin toro cañavera,1
+12,alberto martínez macea,martin toro cañavera,1
+13,martin toro cañavera,alberto martínez macea,1
+14,ingrid esther cantillo fuentes,bahía honda,1
+15,bahía honda,ingrid esther cantillo fuentes,1
+16,no139332 denuncia,bahía honda,1
+17,bahía honda,no139332 denuncia,1
+18,marlen ascanio pabón,kevin antonio paz ascanio,1
+19,kevin antonio paz ascanio,marlen ascanio pabón,1
+20,la mata de aguachica-cesar,john luís aldana martínez,1
+21,john luís aldana martínez,la mata de aguachica-cesar,1
+22,cesar orlando contreras,ramón eliécer contreras,1
+23,cesar orlando contreras,ramón eliécer contreras,1
+24,cesar orlando contreras,maría teresa,1
+25,ramón eliécer contreras,cesar orlando contreras,1
+26,ramón eliécer contreras,maría teresa,1
+27,ramón eliécer contreras,cesar orlando contreras,1
+28,ramón eliécer contreras,maría teresa,1
+29,maría teresa,cesar orlando contreras,1
+30,maría teresa,ramón eliécer contreras,1
+31,maría teresa,ramón eliécer contreras,1
+32,ramon contreras,pedro jaraba,1
+33,pedro jaraba,ramon contreras,1
+34,gladis elena lora sánchez,rodrigo ahumada lomando,1
+35,rodrigo ahumada lomando,gladis elena lora sánchez,1
+36,willinton mora buenhaber,rodrigo alfonso ahumada lomanto,1
+37,rodrigo alfonso ahumada lomanto,willinton mora buenhaber,1
+38,rodrigo alfonso ahumada,nubia stella monroy rodríguez,1
+39,rodrigo alfonso ahumada,willington mora buenhaber,1
+40,nubia stella monroy rodríguez,rodrigo alfonso ahumada,1
+41,nubia stella monroy rodríguez,willington mora buenhaber,1
+42,willington mora buenhaber,rodrigo alfonso ahumada,1
+43,willington mora buenhaber,nubia stella monroy rodríguez,1
+44,josé alejandro lacera campo,josé toro vega,1
+45,josé alejandro lacera campo,marta cristina,1
+46,josé alejandro lacera campo,josé toro vega,1
+47,josé toro vega,josé alejandro lacera campo,1
+48,josé toro vega,marta cristina,1
+49,marta cristina,josé alejandro lacera campo,1
+50,marta cristina,josé toro vega,1
+51,marta cristina,josé toro vega,1
+52,josé toro vega,josé alejandro lacera campo,1
+53,josé toro vega,marta cristina,1
+54,josé toro vega,josé alejandro lacera campo,1
+55,josé toro vega,josé alejandro lacera campo,1
+56,josé alejandro lacera campo,josé toro vega,1
+57,josé alejandro lacera campo,josé toro vega,1
+58,josé gregorio rojas,señor hernán giraldo serna,1
+59,josé gregorio rojas,rubén giraldo,1
+60,señor hernán giraldo serna,josé gregorio rojas,1
+61,señor hernán giraldo serna,rubén giraldo,1
+62,señor hernán giraldo serna,josé gregorio rojas,1
+63,rubén giraldo,josé gregorio rojas,1
+64,rubén giraldo,señor hernán giraldo serna,1
+65,rubén giraldo,josé gregorio rojas,1
+66,josé gregorio rojas,señor hernán giraldo serna,1
+67,josé gregorio rojas,rubén giraldo,1
+68,taganga- magdalena,hernán giraldo,1
+69,taganga- magdalena,josé gregorio,1
+70,taganga- magdalena,adriano sánchez,1
+71,hernán giraldo,taganga- magdalena,1
+72,hernán giraldo,josé gregorio,1
+73,hernán giraldo,adriano sánchez,1
+74,josé gregorio,taganga- magdalena,1
+75,josé gregorio,hernán giraldo,1
+76,josé gregorio,adriano sánchez,1
+77,adriano sánchez,taganga- magdalena,1
+78,adriano sánchez,hernán giraldo,1
+79,adriano sánchez,josé gregorio,1
+80,rafael antonio,maría mercedes matos,1
+81,rafael antonio,josé gregorio rojas,1
+82,maría mercedes matos,rafael antonio,1
+83,maría mercedes matos,josé gregorio rojas,1
+84,josé gregorio rojas,rafael antonio,1
+85,josé gregorio rojas,maría mercedes matos,1
+86,juan raicar varela silva,héctor julio ortiz salcedo,1
+87,héctor julio ortiz salcedo,juan raicar varela silva,1
+88,edgar ignacio fierro florez,héctor julio,1
+89,héctor julio,edgar ignacio fierro florez,1
+90,pablo taborda yance,osvaldo antonio martínez cantillo,1
+91,osvaldo antonio martínez cantillo,pablo taborda yance,1
+92,pablo taborda yance,taborda yance,1
+93,pablo taborda yance,osvaldo antonio martínez,1
+94,taborda yance,pablo taborda yance,1
+95,taborda yance,osvaldo antonio martínez,1
+96,osvaldo antonio martínez,pablo taborda yance,1
+97,osvaldo antonio martínez,taborda yance,1
+98,rafael eduardo julio,manifestó yance él vivía,1
+99,manifestó yance él vivía,rafael eduardo julio,1
+100,pedro luis castro escorcia,jairo antonio castro escorcia,1
+101,pedro luis castro escorcia,jesús escorcia zarate,1
+102,jairo antonio castro escorcia,pedro luis castro escorcia,1
+103,jairo antonio castro escorcia,pedro luis castro escorcia,1
+104,jairo antonio castro escorcia,jesús escorcia zarate,1
+105,pedro luis castro escorcia,jairo antonio castro escorcia,1
+106,pedro luis castro escorcia,jesús escorcia zarate,1
+107,jesús escorcia zarate,pedro luis castro escorcia,1
+108,jesús escorcia zarate,jairo antonio castro escorcia,1
+109,jesús escorcia zarate,pedro luis castro escorcia,1
+110,reynaldo escorcia,salvatore mancuso gómez,1
+111,salvatore mancuso gómez,reynaldo escorcia,1
+112,jairo antonio castro,jairo antonio castro escorcia,1
+113,jairo antonio castro escorcia,jairo antonio castro,1
+114,salvatore mancuso gómez,edgar ignacio fierro flores,1
+115,edgar ignacio fierro flores,salvatore mancuso gómez,1
+116,jair josé martes reyes,evaristo josé mendoza rodríguez,1
+117,jair josé martes reyes,roberto rafael racedo mercado,1
+118,jair josé martes reyes,alexander pedroza rojano,1
+119,jair josé martes reyes,alexander pedroza rojano,1
+120,evaristo josé mendoza rodríguez,jair josé martes reyes,1
+121,evaristo josé mendoza rodríguez,roberto rafael racedo mercado,1
+122,evaristo josé mendoza rodríguez,alexander pedroza rojano,1
+123,evaristo josé mendoza rodríguez,alexander pedroza rojano,1
+124,roberto rafael racedo mercado,jair josé martes reyes,1
+125,roberto rafael racedo mercado,evaristo josé mendoza rodríguez,1
+126,roberto rafael racedo mercado,alexander pedroza rojano,1
+127,roberto rafael racedo mercado,alexander pedroza rojano,1
+128,alexander pedroza rojano,jair josé martes reyes,1
+129,alexander pedroza rojano,evaristo josé mendoza rodríguez,1
+130,alexander pedroza rojano,roberto rafael racedo mercado,1
+131,alexander pedroza rojano,jair josé martes reyes,1
+132,alexander pedroza rojano,evaristo josé mendoza rodríguez,1
+133,alexander pedroza rojano,roberto rafael racedo mercado,1
+134,rafael josé segura gómez,rafael josé segura,1
+135,rafael josé segura,rafael josé segura gómez,1
+136,salvatore mancuso gómez,carlos romero cuartas,1
+137,carlos romero cuartas,salvatore mancuso gómez,1
+138,erwin cepeda calao,ricardo lidueña iglesia,1
+139,ricardo lidueña iglesia,erwin cepeda calao,1
+140,rafael eduardo julio,jorge ignacio,1
+141,jorge ignacio,rafael eduardo julio,1
+142,eduardo rafael,randi escobar morales,1
+143,randi escobar morales,eduardo rafael,1
+144,darwin antonio tejada,josé luís moreno murillo,1
+145,josé luís moreno murillo,darwin antonio tejada,1
+146,rafael eduardo julio,josé luis,1
+147,josé luis,rafael eduardo julio,1
+148,hernando elías gutiérrez peláez,álvaro león peláez ortiz,1
+149,álvaro león peláez ortiz,hernando elías gutiérrez peláez,1
+150,rafael eduardo julio,alias robert,1
+151,alias robert,rafael eduardo julio,1

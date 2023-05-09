@@ -1,0 +1,934 @@
+index; Nombres; Relaciones; count
+0; salvatore mancuso gómez; formuló; 1
+1; miguel ramón posada castillo; formuló; 1
+2; oscar david polo charris; sorprendido; 1
+3; miguel ramón posada castillo; sorprendido; 1
+4; salvatore mancuso gómez; formularon; 1
+5; salvatore mancuso gómez; trata; 1
+6; gustavo rafael ruiz cantillo; sorprendido; 1
+7; gustavo rafael ruiz cantillo; mediar; 1
+8; gustavo rafael ruiz cantillo; propinó; 1
+9; gustavo rafael ruiz cantillo; produciéndole; 1
+10; alberto martínez macea; sorprendido; 1
+11; alberto martínez macea; mediar; 1
+12; alberto martínez macea; propinó; 1
+13; alberto martínez macea; produciéndole; 1
+14; gustavo rafael ruiz cantillo; caribe; 1
+15; gustavo rafael ruiz cantillo; titulado; 1
+16; alberto martínez macea; acepta; 1
+17; gustavo rafael ruiz cantillo; acepta; 1
+18; salvatore mancuso gómez; formuló; 1
+19; martin toro cañavera; salió; 1
+20; martin toro cañavera; interceptado; 1
+21; martin toro cañavera; mediar; 1
+22; martin toro cañavera; procedió; 1
+23; martin toro cañavera; dispararle; 1
+24; martin toro cañavera; ocasionándole; 1
+25; alberto martínez macea; salió; 1
+26; alberto martínez macea; interceptado; 1
+27; alberto martínez macea; mediar; 1
+28; alberto martínez macea; procedió; 1
+29; alberto martínez macea; dispararle; 1
+30; alberto martínez macea; ocasionándole; 1
+31; alberto martínez macea; confiesa; 1
+32; martin toro cañavera; confiesa; 1
+33; salvatore mancuso gómez; formuló; 1
+34; ingrid esther cantillo fuentes; ingresaron; 1
+35; ingrid esther cantillo fuentes; allí procedieron; 1
+36; ingrid esther cantillo fuentes; procedieron; 1
+37; ingrid esther cantillo fuentes; apropiarse; 1
+38; ingrid esther cantillo fuentes; seguidamente sacaron; 1
+39; ingrid esther cantillo fuentes; sacaron; 1
+40; ingrid esther cantillo fuentes; asesinarla; 1
+41; bahía honda; ingresaron; 1
+42; bahía honda; allí procedieron; 1
+43; bahía honda; procedieron; 1
+44; bahía honda; apropiarse; 1
+45; bahía honda; seguidamente sacaron; 1
+46; bahía honda; sacaron; 1
+47; bahía honda; asesinarla; 1
+48; salvatore mancuso gómez; formuló; 1
+49; salvatore mancuso gómez; trata; 1
+50; salvatore mancuso gómez; expulsión; 1
+51; salvatore mancuso gómez; trata; 1
+52; marlen ascanio pabón; atendiendo; 1
+53; marlen ascanio pabón; sorprendida; 1
+54; marlen ascanio pabón; procedieron; 1
+55; marlen ascanio pabón; asesinarla; 1
+56; marlen ascanio pabón; pertenecer; 1
+57; kevin antonio paz ascanio; atendiendo; 1
+58; kevin antonio paz ascanio; sorprendida; 1
+59; kevin antonio paz ascanio; procedieron; 1
+60; kevin antonio paz ascanio; asesinarla; 1
+61; kevin antonio paz ascanio; pertenecer; 1
+62; salvatore mancuso gómez; formuló; 1
+63; pedro antonio martínez garcía; era; 1
+64; pedro antonio martínez garcía; contactado; 1
+65; pedro antonio martínez garcía; ser; 1
+66; pedro antonio martínez garcía; contrató; 1
+67; pedro antonio martínez garcía; recoger; 1
+68; pedro antonio martínez; manifestó; 1
+69; pedro antonio martínez; negó; 1
+70; pedro antonio martínez; seguir; 1
+71; pedro antonio martínez; seguir pagando; 1
+72; pedro antonio martínez; pagando; 1
+73; pedro antonio martínez; había; 1
+74; pedro antonio martínez; había sido; 1
+75; pedro antonio martínez; sido; 1
+76; pedro antonio martínez; había sido amenazado; 1
+77; pedro antonio martínez; sido amenazado; 1
+78; pedro antonio martínez; amenazado; 1
+79; salvatore mancuso gómez; formuló; 1
+80; la mata de aguachica-cesar; residir; 1
+81; la mata de aguachica-cesar; fingiendo; 1
+82; la mata de aguachica-cesar; fingiendo acercarse; 1
+83; la mata de aguachica-cesar; acercarse; 1
+84; la mata de aguachica-cesar; comprar; 1
+85; la mata de aguachica-cesar; procedió; 1
+86; la mata de aguachica-cesar; producirle; 1
+87; la mata de aguachica-cesar; ocasionándole; 1
+88; john luís aldana martínez; residir; 1
+89; john luís aldana martínez; fingiendo; 1
+90; john luís aldana martínez; fingiendo acercarse; 1
+91; john luís aldana martínez; acercarse; 1
+92; john luís aldana martínez; comprar; 1
+93; john luís aldana martínez; procedió; 1
+94; john luís aldana martínez; producirle; 1
+95; john luís aldana martínez; ocasionándole; 1
+96; javier emilio carreño reyes; manifestó; 1
+97; cesar orlando contreras; dice; 1
+98; cesar orlando contreras; debió; 1
+99; cesar orlando contreras; ocurrieron; 1
+100; cesar orlando contreras; arrendó; 1
+101; cesar orlando contreras; remodelaron; 1
+102; cesar orlando contreras; haciendo; 1
+103; cesar orlando contreras; vencerse; 1
+104; cesar orlando contreras; pedimos; 1
+105; cesar orlando contreras; son; 1
+106; cesar orlando contreras; dijo; 1
+107; cesar orlando contreras; entregar; 1
+108; cesar orlando contreras; mandó; 1
+109; cesar orlando contreras; amenazar; 1
+110; cesar orlando contreras; no quiso; 1
+111; cesar orlando contreras; quiso; 1
+112; cesar orlando contreras; quiso vender; 1
+113; cesar orlando contreras; vender; 1
+114; cesar orlando contreras; no quiso vender; 1
+115; cesar orlando contreras; asesinaron; 1
+116; ramón eliécer contreras; dice; 1
+117; ramón eliécer contreras; debió; 1
+118; ramón eliécer contreras; ocurrieron; 1
+119; ramón eliécer contreras; arrendó; 1
+120; ramón eliécer contreras; remodelaron; 1
+121; ramón eliécer contreras; haciendo; 1
+122; ramón eliécer contreras; vencerse; 1
+123; ramón eliécer contreras; pedimos; 1
+124; ramón eliécer contreras; son; 1
+125; ramón eliécer contreras; dijo; 1
+126; ramón eliécer contreras; entregar; 1
+127; ramón eliécer contreras; mandó; 1
+128; ramón eliécer contreras; amenazar; 1
+129; ramón eliécer contreras; no quiso; 1
+130; ramón eliécer contreras; quiso; 1
+131; ramón eliécer contreras; quiso vender; 1
+132; ramón eliécer contreras; vender; 1
+133; ramón eliécer contreras; no quiso vender; 1
+134; ramón eliécer contreras; asesinaron; 1
+135; ramón eliécer contreras; dice; 1
+136; ramón eliécer contreras; debió; 1
+137; ramón eliécer contreras; ocurrieron; 1
+138; ramón eliécer contreras; arrendó; 1
+139; ramón eliécer contreras; remodelaron; 1
+140; ramón eliécer contreras; haciendo; 1
+141; ramón eliécer contreras; vencerse; 1
+142; ramón eliécer contreras; pedimos; 1
+143; ramón eliécer contreras; son; 1
+144; ramón eliécer contreras; dijo; 1
+145; ramón eliécer contreras; entregar; 1
+146; ramón eliécer contreras; mandó; 1
+147; ramón eliécer contreras; amenazar; 1
+148; ramón eliécer contreras; no quiso; 1
+149; ramón eliécer contreras; quiso; 1
+150; ramón eliécer contreras; quiso vender; 1
+151; ramón eliécer contreras; vender; 1
+152; ramón eliécer contreras; no quiso vender; 1
+153; ramón eliécer contreras; asesinaron; 1
+154; maría teresa; dice; 1
+155; maría teresa; debió; 1
+156; maría teresa; ocurrieron; 1
+157; maría teresa; arrendó; 1
+158; maría teresa; remodelaron; 1
+159; maría teresa; haciendo; 1
+160; maría teresa; vencerse; 1
+161; maría teresa; pedimos; 1
+162; maría teresa; son; 1
+163; maría teresa; dijo; 1
+164; maría teresa; entregar; 1
+165; maría teresa; mandó; 1
+166; maría teresa; amenazar; 1
+167; maría teresa; no quiso; 1
+168; maría teresa; quiso; 1
+169; maría teresa; quiso vender; 1
+170; maría teresa; vender; 1
+171; maría teresa; no quiso vender; 1
+172; maría teresa; asesinaron; 1
+173; ramon contreras; después llegaron; 1
+174; ramon contreras; llegaron; 1
+175; ramon contreras; hablar; 1
+176; ramon contreras; llegamos; 1
+177; ramon contreras; abrieron; 1
+178; ramon contreras; maniataron; 1
+179; ramon contreras; sacaron; 1
+180; ramon contreras; hicieron; 1
+181; ramon contreras; hicieron firmar; 1
+182; ramon contreras; firmar; 1
+183; ramon contreras; iban; 1
+184; ramon contreras; matar; 1
+185; pedro jaraba; después llegaron; 1
+186; pedro jaraba; llegaron; 1
+187; pedro jaraba; hablar; 1
+188; pedro jaraba; llegamos; 1
+189; pedro jaraba; abrieron; 1
+190; pedro jaraba; maniataron; 1
+191; pedro jaraba; sacaron; 1
+192; pedro jaraba; hicieron; 1
+193; pedro jaraba; hicieron firmar; 1
+194; pedro jaraba; firmar; 1
+195; pedro jaraba; iban; 1
+196; pedro jaraba; matar; 1
+197; jovannis manuel lobo jaramillo; corroborada; 1
+198; jovannis manuel lobo jaramillo; aceptar; 1
+199; jovannis manuel lobo jaramillo; describe; 1
+200; salvatore mancuso gómez; formuló; 1
+201; salvatore mancuso gómez; trata; 1
+202; salvatore mancuso gómez; trata; 1
+203; salvatore mancuso gómez; cp; 1
+204; josé humberto sánchez zapata; atendiendo; 1
+205; josé humberto sánchez zapata; llegaron; 1
+206; josé humberto sánchez zapata; comprar; 1
+207; josé humberto sánchez zapata; aprovecharon; 1
+208; josé humberto sánchez zapata; asesinarlo; 1
+209; salvatore mancuso gómez; formuló; 1
+210; salvatore mancuso gómez; trata; 1
+211; gladis elena lora sánchez; manifestó; 1
+212; gladis elena lora sánchez; asesinado; 1
+213; gladis elena lora sánchez; acercaron; 1
+214; gladis elena lora sánchez; dispararon; 1
+215; rodrigo ahumada lomando; manifestó; 1
+216; rodrigo ahumada lomando; asesinado; 1
+217; rodrigo ahumada lomando; acercaron; 1
+218; rodrigo ahumada lomando; dispararon; 1
+219; willinton mora buenhaber; dijo; 1
+220; willinton mora buenhaber; dio; 1
+221; willinton mora buenhaber; matarlo; 1
+222; willinton mora buenhaber; da; 1
+223; willinton mora buenhaber; entregaron; 1
+224; willinton mora buenhaber; además participaron; 1
+225; willinton mora buenhaber; participaron; 1
+226; willinton mora buenhaber; pulga; 1
+227; willinton mora buenhaber; era; 1
+228; willinton mora buenhaber; ubicar; 1
+229; rodrigo alfonso ahumada lomanto; dijo; 1
+230; rodrigo alfonso ahumada lomanto; dio; 1
+231; rodrigo alfonso ahumada lomanto; matarlo; 1
+232; rodrigo alfonso ahumada lomanto; da; 1
+233; rodrigo alfonso ahumada lomanto; entregaron; 1
+234; rodrigo alfonso ahumada lomanto; además participaron; 1
+235; rodrigo alfonso ahumada lomanto; participaron; 1
+236; rodrigo alfonso ahumada lomanto; pulga; 1
+237; rodrigo alfonso ahumada lomanto; era; 1
+238; rodrigo alfonso ahumada lomanto; ubicar; 1
+239; josé gregorio; dio; 1
+240; josé gregorio; transmitió; 1
+241; rodrigo alfonso ahumada lomanto; apertura; 1
+242; nubia stella monroy rodríguez; avoca; 1
+243; nubia stella monroy rodríguez; avoca; 1
+244; nubia stella monroy rodríguez; avoca; 1
+245; rodrigo alfonso ahumada; hace; 1
+246; rodrigo alfonso ahumada; accionar; 1
+247; nubia stella monroy rodríguez; hace; 1
+248; nubia stella monroy rodríguez; accionar; 1
+249; willington mora buenhaber; hace; 1
+250; willington mora buenhaber; accionar; 1
+251; salvatore mancuso gómez; formuló; 1
+252; carlos tijeras; manifestó; 1
+253; carlos tijeras; había; 1
+254; carlos tijeras; había contactado; 1
+255; carlos tijeras; contactado; 1
+256; carlos tijeras; manifestó; 1
+257; carlos tijeras; debían; 1
+258; carlos tijeras; debían matar; 1
+259; carlos tijeras; matar; 1
+260; carlos tijeras; era; 1
+261; carlos tijeras; había; 1
+262; carlos tijeras; había robado; 1
+263; carlos tijeras; robado; 1
+264; magdalena das; informe; 1
+265; josé alejandro lacera campo; establecer; 1
+266; josé alejandro lacera campo; define; 1
+267; josé alejandro lacera campo; victima; 1
+268; josé alejandro lacera campo; lacera; 1
+269; josé alejandro lacera campo; califica; 1
+270; josé alejandro lacera campo; confirma; 1
+271; josé toro vega; establecer; 1
+272; josé toro vega; define; 1
+273; josé toro vega; victima; 1
+274; josé toro vega; lacera; 1
+275; josé toro vega; califica; 1
+276; josé toro vega; confirma; 1
+277; marta cristina; establecer; 1
+278; marta cristina; define; 1
+279; marta cristina; victima; 1
+280; marta cristina; lacera; 1
+281; marta cristina; califica; 1
+282; marta cristina; confirma; 1
+283; josé toro vega; establecer; 1
+284; josé toro vega; define; 1
+285; josé toro vega; victima; 1
+286; josé toro vega; lacera; 1
+287; josé toro vega; califica; 1
+288; josé toro vega; confirma; 1
+289; josé toro vega; condena; 1
+290; josé toro vega; victima; 1
+291; josé toro vega; informe; 1
+292; josé toro vega; campo; 1
+293; josé alejandro lacera campo; condena; 1
+294; josé alejandro lacera campo; victima; 1
+295; josé alejandro lacera campo; informe; 1
+296; josé alejandro lacera campo; campo; 1
+297; josé alejandro lacera campo; condena; 1
+298; josé alejandro lacera campo; victima; 1
+299; josé alejandro lacera campo; informe; 1
+300; josé alejandro lacera campo; campo; 1
+301; salvatore mancuso gómez; formuló; 1
+302; rafael antonio pinto navarro; abordado; 1
+303; rafael antonio pinto navarro; propinaron; 1
+304; rafael antonio pinto navarro; ocasionándole; 1
+305; jesús maría henríquez; sucedió; 1
+306; jesús maría henríquez; era; 1
+307; jesús maría henríquez; tuvo; 1
+308; jesús maría henríquez; ir; 1
+309; jesús maría henríquez; manigua; 1
+310; jesús maría henríquez; citó; 1
+311; josé gregorio rojas; acepta; 1
+312; josé gregorio rojas; confiesa; 1
+313; josé gregorio rojas; transmitió; 1
+314; señor hernán giraldo serna; acepta; 1
+315; señor hernán giraldo serna; confiesa; 1
+316; señor hernán giraldo serna; transmitió; 1
+317; rubén giraldo; acepta; 1
+318; rubén giraldo; confiesa; 1
+319; rubén giraldo; transmitió; 1
+320; josé gregorio rojas; acepta; 1
+321; josé gregorio rojas; confiesa; 1
+322; josé gregorio rojas; transmitió; 1
+323; josé gregorio rojas mendoza; indica; 1
+324; josé gregorio rojas mendoza; dio; 1
+325; josé gregorio rojas mendoza; finalmente materializaron; 1
+326; josé gregorio rojas mendoza; materializaron; 1
+327; josé gregorio rojas mendoza; utilizando; 1
+328; hernán giraldo; reconoce; 1
+329; hernán giraldo; agrega; 1
+330; hernán giraldo; dio; 1
+331; taganga- magdalena; pusieran; 1
+332; taganga- magdalena; sucedió; 1
+333; taganga- magdalena; llegaron; 1
+334; taganga- magdalena; enteró; 1
+335; taganga- magdalena; había; 1
+336; taganga- magdalena; había dado; 1
+337; taganga- magdalena; dado; 1
+338; taganga- magdalena; saber; 1
+339; taganga- magdalena; comunicó; 1
+340; taganga- magdalena; habían; 1
+341; taganga- magdalena; habían cumplido; 1
+342; taganga- magdalena; cumplido; 1
+343; taganga- magdalena; quedando; 1
+344; taganga- magdalena; averiguar; 1
+345; taganga- magdalena; era; 1
+346; taganga- magdalena; estuvo; 1
+347; hernán giraldo; pusieran; 1
+348; hernán giraldo; sucedió; 1
+349; hernán giraldo; llegaron; 1
+350; hernán giraldo; enteró; 1
+351; hernán giraldo; había; 1
+352; hernán giraldo; había dado; 1
+353; hernán giraldo; dado; 1
+354; hernán giraldo; saber; 1
+355; hernán giraldo; comunicó; 1
+356; hernán giraldo; habían; 1
+357; hernán giraldo; habían cumplido; 1
+358; hernán giraldo; cumplido; 1
+359; hernán giraldo; quedando; 1
+360; hernán giraldo; averiguar; 1
+361; hernán giraldo; era; 1
+362; hernán giraldo; estuvo; 1
+363; josé gregorio; pusieran; 1
+364; josé gregorio; sucedió; 1
+365; josé gregorio; llegaron; 1
+366; josé gregorio; enteró; 1
+367; josé gregorio; había; 1
+368; josé gregorio; había dado; 1
+369; josé gregorio; dado; 1
+370; josé gregorio; saber; 1
+371; josé gregorio; comunicó; 1
+372; josé gregorio; habían; 1
+373; josé gregorio; habían cumplido; 1
+374; josé gregorio; cumplido; 1
+375; josé gregorio; quedando; 1
+376; josé gregorio; averiguar; 1
+377; josé gregorio; era; 1
+378; josé gregorio; estuvo; 1
+379; adriano sánchez; pusieran; 1
+380; adriano sánchez; sucedió; 1
+381; adriano sánchez; llegaron; 1
+382; adriano sánchez; enteró; 1
+383; adriano sánchez; había; 1
+384; adriano sánchez; había dado; 1
+385; adriano sánchez; dado; 1
+386; adriano sánchez; saber; 1
+387; adriano sánchez; comunicó; 1
+388; adriano sánchez; habían; 1
+389; adriano sánchez; habían cumplido; 1
+390; adriano sánchez; cumplido; 1
+391; adriano sánchez; quedando; 1
+392; adriano sánchez; averiguar; 1
+393; adriano sánchez; era; 1
+394; adriano sánchez; estuvo; 1
+395; rafael antonio; diagrama; 1
+396; rafael antonio; mercedes; 1
+397; rafael antonio; rojas; 1
+398; rafael antonio; mendoza383; 1
+399; maría mercedes matos; diagrama; 1
+400; maría mercedes matos; mercedes; 1
+401; maría mercedes matos; rojas; 1
+402; maría mercedes matos; mendoza383; 1
+403; josé gregorio rojas; diagrama; 1
+404; josé gregorio rojas; mercedes; 1
+405; josé gregorio rojas; rojas; 1
+406; josé gregorio rojas; mendoza383; 1
+407; salvatore mancuso gómez; formuló; 1
+408; jorge eliecer barrios formaris; sorprendido; 1
+409; jorge eliecer barrios formaris; mediar; 1
+410; jorge eliecer barrios formaris; procedieron; 1
+411; jorge eliecer barrios formaris; disparar; 1
+412; jorge eliecer barrios formaris; ocasionándole; 1
+413; jorge eliecer barrios formaris; resultó; 1
+414; jhon fredy rojas marín; permitieron; 1
+415; jhon fredy rojas marín; permitieron establecer; 1
+416; jhon fredy rojas marín; establecer; 1
+417; jhon fredy rojas marín; había; 1
+418; jhon fredy rojas marín; había instaurado; 1
+419; jhon fredy rojas marín; instaurado; 1
+420; jhon fredy rojas marín; señaló; 1
+421; jhon fredy rojas marín; ser; 1
+422; rafael eduardo julio; acta; 1
+423; rafael eduardo julio; denuncia; 1
+424; rafael eduardo julio; clip; 1
+425; rafael eduardo julio; andrea; 1
+426; salvatore mancuso gómez; formuló; 1
+427; juan raicar varela silva; da; 1
+428; juan raicar varela silva; fueron; 1
+429; juan raicar varela silva; fueron sorprendidos; 1
+430; juan raicar varela silva; sorprendidos; 1
+431; juan raicar varela silva; procedieron; 1
+432; juan raicar varela silva; asesinarlos; 1
+433; juan raicar varela silva; ser; 1
+434; héctor julio ortiz salcedo; da; 1
+435; héctor julio ortiz salcedo; fueron; 1
+436; héctor julio ortiz salcedo; fueron sorprendidos; 1
+437; héctor julio ortiz salcedo; sorprendidos; 1
+438; héctor julio ortiz salcedo; procedieron; 1
+439; héctor julio ortiz salcedo; asesinarlos; 1
+440; héctor julio ortiz salcedo; ser; 1
+441; chiquito cuello; señala; 1
+442; chiquito cuello; dio; 1
+443; chiquito cuello; dijo; 1
+444; chiquito cuello; fuera; 1
+445; chiquito cuello; fuera acompañar; 1
+446; chiquito cuello; acompañar; 1
+447; chiquito cuello; encontramos; 1
+448; chiquito cuello; estaban; 1
+449; chiquito cuello; estaban ahí incluyendo; 1
+450; chiquito cuello; ahí incluyendo; 1
+451; chiquito cuello; incluyendo; 1
+452; chiquito cuello; estaban; 1
+453; chiquito cuello; estaban consumiendo; 1
+454; chiquito cuello; consumiendo; 1
+455; chiquito cuello; llegamos; 1
+456; chiquito cuello; quisieron; 1
+457; chiquito cuello; percataron; 1
+458; chiquito cuello; desenfundando; 1
+459; chiquito cuello; presentó; 1
+460; negro sabrosón; diéramos; 1
+461; negro sabrosón; estaba; 1
+462; negro sabrosón; dijo; 1
+463; negro sabrosón; diéramos; 1
+464; negro sabrosón; era; 1
+465; negro sabrosón; dijo; 1
+466; negro sabrosón; enuncie; 1
+467; edgar ignacio fierro florez; acepta; 1
+468; edgar ignacio fierro florez; aclara; 1
+469; edgar ignacio fierro florez; no había; 1
+470; edgar ignacio fierro florez; había; 1
+471; edgar ignacio fierro florez; había sido; 1
+472; edgar ignacio fierro florez; sido; 1
+473; edgar ignacio fierro florez; no había sido; 1
+474; edgar ignacio fierro florez; había sido comentado; 1
+475; edgar ignacio fierro florez; sido comentado; 1
+476; edgar ignacio fierro florez; comentado; 1
+477; edgar ignacio fierro florez; no había sido comentado; 1
+478; héctor julio; acepta; 1
+479; héctor julio; aclara; 1
+480; héctor julio; no había; 1
+481; héctor julio; había; 1
+482; héctor julio; había sido; 1
+483; héctor julio; sido; 1
+484; héctor julio; no había sido; 1
+485; héctor julio; había sido comentado; 1
+486; héctor julio; sido comentado; 1
+487; héctor julio; comentado; 1
+488; héctor julio; no había sido comentado; 1
+489; ever mariano; hubiese; 1
+490; ever mariano; hubiese sucedido; 1
+491; ever mariano; sucedido; 1
+492; ever mariano; estaba; 1
+493; ever mariano; estaba atacando; 1
+494; ever mariano; atacando; 1
+495; ever mariano; no eran; 1
+496; ever mariano; eran; 1
+497; ever mariano; haya; 1
+498; ever mariano; haya sucedido; 1
+499; ever mariano; sucedido; 1
+500; ever mariano; cree; 1
+501; ever mariano; dice; 1
+502; ever mariano; presentó; 1
+503; ever mariano; hace; 1
+504; ever mariano; disparar; 1
+505; ever mariano; están; 1
+506; ever mariano; están haciendo; 1
+507; ever mariano; haciendo; 1
+508; ciencias forenses; raickard; 1
+509; ciencias forenses; clip; 1
+510; salvatore mancuso gómez; formuló; 1
+511; pablo taborda yance; fueron; 1
+512; pablo taborda yance; fueron encontrados; 1
+513; pablo taborda yance; encontrados; 1
+514; osvaldo antonio martínez cantillo; fueron; 1
+515; osvaldo antonio martínez cantillo; fueron encontrados; 1
+516; osvaldo antonio martínez cantillo; encontrados; 1
+517; pablo taborda yance; sorprendido; 1
+518; pablo taborda yance; pernoctando; 1
+519; pablo taborda yance; atado; 1
+520; pablo taborda yance; asesinado; 1
+521; pablo taborda yance; ser; 1
+522; pablo taborda yance; asesinado; 1
+523; pablo taborda yance; acceder; 1
+524; taborda yance; sorprendido; 1
+525; taborda yance; pernoctando; 1
+526; taborda yance; atado; 1
+527; taborda yance; asesinado; 1
+528; taborda yance; ser; 1
+529; taborda yance; asesinado; 1
+530; taborda yance; acceder; 1
+531; osvaldo antonio martínez; sorprendido; 1
+532; osvaldo antonio martínez; pernoctando; 1
+533; osvaldo antonio martínez; atado; 1
+534; osvaldo antonio martínez; asesinado; 1
+535; osvaldo antonio martínez; ser; 1
+536; osvaldo antonio martínez; asesinado; 1
+537; osvaldo antonio martínez; acceder; 1
+538; ricardo martin robert; llevó; 1
+539; ricardo martin robert; llevaron; 1
+540; ricardo martin robert; allá también procedieron; 1
+541; ricardo martin robert; también procedieron; 1
+542; ricardo martin robert; procedieron; 1
+543; ricardo martin robert; dispararon; 1
+544; chiqui rey ñoño martin; ocurrieron; 1
+545; chiqui rey ñoño martin; estuvieron; 1
+546; chiqui rey ñoño martin; llevamos; 1
+547; rafael eduardo julio; manifestó; 1
+548; rafael eduardo julio; dirigimos; 1
+549; rafael eduardo julio; sacamos; 1
+550; rafael eduardo julio; sacamos; 1
+551; rafael eduardo julio; estaba; 1
+552; rafael eduardo julio; estaba huyendo; 1
+553; rafael eduardo julio; huyendo; 1
+554; rafael eduardo julio; estaba; 1
+555; rafael eduardo julio; sacamos; 1
+556; rafael eduardo julio; damos; 1
+557; rafael eduardo julio; encuentra; 1
+558; manifestó yance él vivía; manifestó; 1
+559; manifestó yance él vivía; dirigimos; 1
+560; manifestó yance él vivía; sacamos; 1
+561; manifestó yance él vivía; sacamos; 1
+562; manifestó yance él vivía; estaba; 1
+563; manifestó yance él vivía; estaba huyendo; 1
+564; manifestó yance él vivía; huyendo; 1
+565; manifestó yance él vivía; estaba; 1
+566; manifestó yance él vivía; sacamos; 1
+567; manifestó yance él vivía; damos; 1
+568; manifestó yance él vivía; encuentra; 1
+569; salvatore mancuso gómez; formuló; 1
+570; salvatore mancuso gómez; trata; 1
+571; salvatore mancuso gómez; trata; 1
+572; pedro luis castro escorcia; llegaron; 1
+573; pedro luis castro escorcia; allí procedieron; 1
+574; pedro luis castro escorcia; procedieron; 1
+575; pedro luis castro escorcia; derribar; 1
+576; pedro luis castro escorcia; ingresar; 1
+577; pedro luis castro escorcia; interrogaron; 1
+578; pedro luis castro escorcia; sometido; 1
+579; pedro luis castro escorcia; introdujeron; 1
+580; pedro luis castro escorcia; rompió; 1
+581; pedro luis castro escorcia; llevaron; 1
+582; pedro luis castro escorcia; informar; 1
+583; pedro luis castro escorcia; trasladados; 1
+584; pedro luis castro escorcia; procedieron; 1
+585; pedro luis castro escorcia; asesinar; 1
+586; pedro luis castro escorcia; posteriormente pintaron; 1
+587; pedro luis castro escorcia; pintaron; 1
+588; jairo antonio castro escorcia; llegaron; 1
+589; jairo antonio castro escorcia; allí procedieron; 1
+590; jairo antonio castro escorcia; procedieron; 1
+591; jairo antonio castro escorcia; derribar; 1
+592; jairo antonio castro escorcia; ingresar; 1
+593; jairo antonio castro escorcia; interrogaron; 1
+594; jairo antonio castro escorcia; sometido; 1
+595; jairo antonio castro escorcia; introdujeron; 1
+596; jairo antonio castro escorcia; rompió; 1
+597; jairo antonio castro escorcia; llevaron; 1
+598; jairo antonio castro escorcia; informar; 1
+599; jairo antonio castro escorcia; trasladados; 1
+600; jairo antonio castro escorcia; procedieron; 1
+601; jairo antonio castro escorcia; asesinar; 1
+602; jairo antonio castro escorcia; posteriormente pintaron; 1
+603; jairo antonio castro escorcia; pintaron; 1
+604; pedro luis castro escorcia; llegaron; 1
+605; pedro luis castro escorcia; allí procedieron; 1
+606; pedro luis castro escorcia; procedieron; 1
+607; pedro luis castro escorcia; derribar; 1
+608; pedro luis castro escorcia; ingresar; 1
+609; pedro luis castro escorcia; interrogaron; 1
+610; pedro luis castro escorcia; sometido; 1
+611; pedro luis castro escorcia; introdujeron; 1
+612; pedro luis castro escorcia; rompió; 1
+613; pedro luis castro escorcia; llevaron; 1
+614; pedro luis castro escorcia; informar; 1
+615; pedro luis castro escorcia; trasladados; 1
+616; pedro luis castro escorcia; procedieron; 1
+617; pedro luis castro escorcia; asesinar; 1
+618; pedro luis castro escorcia; posteriormente pintaron; 1
+619; pedro luis castro escorcia; pintaron; 1
+620; jesús escorcia zarate; llegaron; 1
+621; jesús escorcia zarate; allí procedieron; 1
+622; jesús escorcia zarate; procedieron; 1
+623; jesús escorcia zarate; derribar; 1
+624; jesús escorcia zarate; ingresar; 1
+625; jesús escorcia zarate; interrogaron; 1
+626; jesús escorcia zarate; sometido; 1
+627; jesús escorcia zarate; introdujeron; 1
+628; jesús escorcia zarate; rompió; 1
+629; jesús escorcia zarate; llevaron; 1
+630; jesús escorcia zarate; informar; 1
+631; jesús escorcia zarate; trasladados; 1
+632; jesús escorcia zarate; procedieron; 1
+633; jesús escorcia zarate; asesinar; 1
+634; jesús escorcia zarate; posteriormente pintaron; 1
+635; jesús escorcia zarate; pintaron; 1
+636; reynaldo escorcia orozco; señaló; 1
+637; simpson noño robert; reunimos; 1
+638; simpson noño robert; buscar; 1
+639; simpson noño robert; no tengo; 1
+640; simpson noño robert; tengo; 1
+641; pedro luis castro escorciaprotocolo; acta; 1
+642; pedro luis castro escorcia; identificado; 1
+643; jairo antonio castro escorcia; muestra; 1
+644; salvatore mancuso gómez; formuló; 1
+645; salvatore mancuso gómez; trata; 1
+646; salvatore mancuso gómez; trata; 1
+647; edgar ignacio fierro flores; formuló; 1
+648; edgar ignacio fierro flores; trata; 1
+649; edgar ignacio fierro flores; trata; 1
+650; jair josé martes reyes; fueron; 1
+651; jair josé martes reyes; fueron sorprendidos; 1
+652; jair josé martes reyes; sorprendidos; 1
+653; jair josé martes reyes; procedieron; 1
+654; jair josé martes reyes; dejando; 1
+655; jair josé martes reyes; cobrar; 1
+656; evaristo josé mendoza rodríguez; fueron; 1
+657; evaristo josé mendoza rodríguez; fueron sorprendidos; 1
+658; evaristo josé mendoza rodríguez; sorprendidos; 1
+659; evaristo josé mendoza rodríguez; procedieron; 1
+660; evaristo josé mendoza rodríguez; dejando; 1
+661; evaristo josé mendoza rodríguez; cobrar; 1
+662; roberto rafael racedo mercado; fueron; 1
+663; roberto rafael racedo mercado; fueron sorprendidos; 1
+664; roberto rafael racedo mercado; sorprendidos; 1
+665; roberto rafael racedo mercado; procedieron; 1
+666; roberto rafael racedo mercado; dejando; 1
+667; roberto rafael racedo mercado; cobrar; 1
+668; alexander pedroza rojano; fueron; 1
+669; alexander pedroza rojano; fueron sorprendidos; 1
+670; alexander pedroza rojano; sorprendidos; 1
+671; alexander pedroza rojano; procedieron; 1
+672; alexander pedroza rojano; dejando; 1
+673; alexander pedroza rojano; cobrar; 1
+674; alexander pedroza rojano; fueron; 1
+675; alexander pedroza rojano; fueron sorprendidos; 1
+676; alexander pedroza rojano; sorprendidos; 1
+677; alexander pedroza rojano; procedieron; 1
+678; alexander pedroza rojano; dejando; 1
+679; alexander pedroza rojano; cobrar; 1
+680; fabián enrique álvarez gutiérrez; clip; 1
+681; salvatore mancuso gómez; clip; 1
+682; salvatore mancuso gómez; formuló; 1
+683; rafael josé segura gómez; fueron; 1
+684; rafael josé segura gómez; fueron sorprendidos; 1
+685; rafael josé segura gómez; sorprendidos; 1
+686; rafael josé segura gómez; procedieron; 1
+687; rafael josé segura gómez; dejando; 1
+688; rafael josé segura; fueron; 1
+689; rafael josé segura; fueron sorprendidos; 1
+690; rafael josé segura; sorprendidos; 1
+691; rafael josé segura; procedieron; 1
+692; rafael josé segura; dejando; 1
+693; salvatore mancuso gómez; clip; 1
+694; carlos romero cuartas; clip; 1
+695; salvatore mancuso gómez; formuló; 1
+696; erwin cepeda calao; fueron; 1
+697; erwin cepeda calao; fueron sorprendidos; 1
+698; erwin cepeda calao; sorprendidos; 1
+699; erwin cepeda calao; procedieron; 1
+700; erwin cepeda calao; asesinarlos; 1
+701; ricardo lidueña iglesia; fueron; 1
+702; ricardo lidueña iglesia; fueron sorprendidos; 1
+703; ricardo lidueña iglesia; sorprendidos; 1
+704; ricardo lidueña iglesia; procedieron; 1
+705; ricardo lidueña iglesia; asesinarlos; 1
+706; rafael eduardo julio; manifestó; 1
+707; rafael eduardo julio; estaba; 1
+708; rafael eduardo julio; estaba robando; 1
+709; rafael eduardo julio; robando; 1
+710; rafael eduardo julio; da; 1
+711; rafael eduardo julio; dijo; 1
+712; rafael eduardo julio; estaba; 1
+713; rafael eduardo julio; estaba robando; 1
+714; rafael eduardo julio; robando; 1
+715; rafael eduardo julio; dice; 1
+716; rafael eduardo julio; estaban; 1
+717; rafael eduardo julio; estaban robando; 1
+718; rafael eduardo julio; robando; 1
+719; rafael eduardo julio; dice; 1
+720; rafael eduardo julio; ubica; 1
+721; rafael eduardo julio; dirijo; 1
+722; rafael eduardo julio; dirijo; 1
+723; jorge ignacio; manifestó; 1
+724; jorge ignacio; estaba; 1
+725; jorge ignacio; estaba robando; 1
+726; jorge ignacio; robando; 1
+727; jorge ignacio; da; 1
+728; jorge ignacio; dijo; 1
+729; jorge ignacio; estaba; 1
+730; jorge ignacio; estaba robando; 1
+731; jorge ignacio; robando; 1
+732; jorge ignacio; dice; 1
+733; jorge ignacio; estaban; 1
+734; jorge ignacio; estaban robando; 1
+735; jorge ignacio; robando; 1
+736; jorge ignacio; dice; 1
+737; jorge ignacio; ubica; 1
+738; jorge ignacio; dirijo; 1
+739; jorge ignacio; dirijo; 1
+740; salvatore mancuso gómez; formuló; 1
+741; eduardo rafael; ingresaron; 1
+742; eduardo rafael; seguidamente fueron; 1
+743; eduardo rafael; fueron; 1
+744; eduardo rafael; fueron llevados; 1
+745; eduardo rafael; llevados; 1
+746; eduardo rafael; seguidamente fueron llevados; 1
+747; eduardo rafael; procedieron; 1
+748; eduardo rafael; asesinarlos; 1
+749; eduardo rafael; ser; 1
+750; randi escobar morales; ingresaron; 1
+751; randi escobar morales; seguidamente fueron; 1
+752; randi escobar morales; fueron; 1
+753; randi escobar morales; fueron llevados; 1
+754; randi escobar morales; llevados; 1
+755; randi escobar morales; seguidamente fueron llevados; 1
+756; randi escobar morales; procedieron; 1
+757; randi escobar morales; asesinarlos; 1
+758; randi escobar morales; ser; 1
+759; rafael eduardo julio; alias; 1
+760; rafael eduardo julio; manifiesta; 1
+761; rafael eduardo julio; habían; 1
+762; rafael eduardo julio; habían hecho; 1
+763; rafael eduardo julio; hecho; 1
+764; rafael eduardo julio; dijo; 1
+765; rafael eduardo julio; asesinaran; 1
+766; rafael eduardo julio; queda; 1
+767; rafael eduardo julio; llegar; 1
+768; rafael eduardo julio; no recuerdo; 1
+769; rafael eduardo julio; recuerdo; 1
+770; rafael eduardo julio; eran; 1
+771; rafael eduardo julio; eran eran; 1
+772; rafael eduardo julio; eran; 1
+773; rafael eduardo julio; todavía eran; 1
+774; rafael eduardo julio; eran; 1
+775; jorge ignacio; dejamos; 1
+776; jorge ignacio; jorge; 1
+778; jorge ignacio; ignacio; 1
+779; jorge ignacio; eran; 1
+780; jorge ignacio; sacamos; 1
+781; jorge ignacio; llevamos; 1
+782; jorge ignacio; damos; 1
+783; jorge ignacio; asesinen; 1
+784; rancho grande; manifestó; 1
+785; rancho grande; había; 1
+786; rancho grande; había tenido; 1
+787; rancho grande; tenido; 1
+788; rancho grande; habían; 1
+789; rancho grande; habían hurtado; 1
+790; rancho grande; hurtado; 1
+791; rancho grande; informaron; 1
+792; rancho grande; habían; 1
+793; rancho grande; habían sido; 1
+794; rancho grande; sido; 1
+795; rancho grande; cometieron; 1
+796; rancho grande; había; 1
+797; rancho grande; entrar; 1
+798; rancho grande; asesinarlos; 1
+799; salvatore mancuso gómez; formuló; 1
+800; darwin antonio tejada; fueron; 1
+801; darwin antonio tejada; fueron sorprendidos; 1
+802; darwin antonio tejada; sorprendidos; 1
+803; darwin antonio tejada; mediar; 1
+804; darwin antonio tejada; procedieron; 1
+805; darwin antonio tejada; asesinarlos; 1
+806; darwin antonio tejada; eran; 1
+807; darwin antonio tejada; eran acusados; 1
+808; darwin antonio tejada; acusados; 1
+809; darwin antonio tejada; realizar; 1
+810; josé luís moreno murillo; fueron; 1
+811; josé luís moreno murillo; fueron sorprendidos; 1
+812; josé luís moreno murillo; sorprendidos; 1
+813; josé luís moreno murillo; mediar; 1
+814; josé luís moreno murillo; procedieron; 1
+815; josé luís moreno murillo; asesinarlos; 1
+816; josé luís moreno murillo; eran; 1
+817; josé luís moreno murillo; eran acusados; 1
+818; josé luís moreno murillo; acusados; 1
+819; josé luís moreno murillo; realizar; 1
+820; según precisó; precisó; 1
+821; según precisó; perteneció; 1
+822; según precisó; había; 1
+823; según precisó; había desertado; 1
+824; según precisó; desertado; 1
+825; julio soldadito camilo chiqui; participe; 1
+826; julio soldadito camilo chiqui; hizo; 1
+827; julio soldadito camilo chiqui; desplazamos; 1
+828; julio soldadito camilo chiqui; llegamos; 1
+829; julio soldadito camilo chiqui; no dispare; 1
+830; julio soldadito camilo chiqui; dispare; 1
+831; julio soldadito camilo chiqui; dispare preste; 1
+832; julio soldadito camilo chiqui; preste; 1
+833; julio soldadito camilo chiqui; no dispare preste; 1
+834; rafael eduardo julio; señala; 1
+835; rafael eduardo julio; señala; 1
+836; rafael eduardo julio; era; 1
+837; josé luis; señala; 1
+838; josé luis; señala; 1
+839; josé luis; era; 1
+840; santa marta; estuvo; 1
+841; santa marta; acepte; 1
+842; santa marta; asesinar; 1
+843; santa marta; escapó; 1
+844; santa marta; dice; 1
+845; santa marta; procedí; 1
+846; santa marta; ir; 1
+847; santa marta; metimos; 1
+848; santa marta; ahí asesinamos; 1
+849; santa marta; asesinamos; 1
+850; santa marta; vamos; 1
+851; santa marta; llevamos; 1
+852; salvatore mancuso gómez; formuló; 1
+853; robert tata; recomienda; 1
+854; robert tata; ya lleva; 1
+855; robert tata; lleva; 1
+856; robert tata; dijo; 1
+857; robert tata; iban; 1
+858; robert tata; asesinar; 1
+859; robert tata; descargaran; 1
+860; robert tata; quedo; 1
+861; robert tata; quedo afuera; 1
+862; robert tata; afuera; 1
+863; robert tata; creo; 1
+864; robert tata; vamos; 1
+865; robert tata; llevamos; 1
+866; robert tata; huyendo; 1
+867; robert tata; huyendo; 1
+868; robert tata; hicimos; 1
+869; robert tata; regresa; 1
+870; robert tata; era; 1
+871; robert tata; asesinarlo; 1
+872; robert tata; había; 1
+873; robert tata; había invadido; 1
+874; robert tata; invadido; 1
+875; robert tata; era; 1
+876; robert tata; escoge; 1
+877; tata chiqui; señala; 1
+878; tata chiqui; llegamos; 1
+879; tata chiqui; llegue; 1
+880; tata chiqui; estaba; 1
+881; tata chiqui; asesine; 1
+882; tata chiqui; era; 1
+883; tata chiqui; disparo; 1
+884; rafael eduardo julio; señala; 1
+885; rafael eduardo julio; entra; 1
+886; rafael eduardo julio; dispararle; 1
+887; rafael eduardo julio; pone; 1
+888; rafael eduardo julio; tira; 1
+889; rafael eduardo julio; disparo; 1
+890; rafael eduardo julio; disparo pido; 1
+891; rafael eduardo julio; pido; 1
+892; alias robert; señala; 1
+893; alias robert; entra; 1
+894; alias robert; dispararle; 1
+895; alias robert; pone; 1
+896; alias robert; tira; 1
+897; alias robert; disparo; 1
+898; alias robert; disparo pido; 1
+899; alias robert; pido; 1
+900; diario el heraldo; registra; 1
+901; diario el heraldo; sufrido; 1
+902; salvatore mancuso gómez; formuló; 1
+903; castulo rafael hernández bustamante; fueron; 1
+904; castulo rafael hernández bustamante; fueron sorprendidos; 1
+905; castulo rafael hernández bustamante; sorprendidos; 1
+906; castulo rafael hernández bustamante; mediar; 1
+907; castulo rafael hernández bustamante; procedieron; 1
+908; castulo rafael hernández bustamante; asesinarlos; 1
+909; castulo rafael hernández bustamante; ser; 1
+910; rafael eduardo julio; llego; 1
+911; rafael eduardo julio; metí; 1
+912; rafael eduardo julio; ver; 1
+913; rafael eduardo julio; dimos; 1
+914; disparo robert; hizo; 1
+915; edgar ignacio fierro flores; profirió; 1
+916; edgar ignacio fierro flores; formularon; 1
+917; salvatore mancuso gómez; formuló; 1
+918; farith enrique zambrano meza; fueron; 1
+919; farith enrique zambrano meza; fueron encontrados; 1
+920; farith enrique zambrano meza; encontrados; 1
+921; farith enrique zambrano meza; fueron; 1
+922; farith enrique zambrano meza; fueron asesinados; 1
+923; farith enrique zambrano meza; asesinados; 1
+924; farith enrique zambrano meza; llegaron; 1
+925; farith enrique zambrano meza; eran; 1
+926; reynaldo orozco escorcia; señala; 1
+927; reynaldo orozco escorcia; llegamos; 1
+928; reynaldo orozco escorcia; rodeamos; 1
+929; reynaldo orozco escorcia; sacamos; 1
+930; reynaldo orozco escorcia; asesine; 1
+931; edgar ignacio fierro flores; existe; 1
+932; edgar ignacio fierro flores; formularon; 1
+933; salvatore mancuso gómez; formuló; 1

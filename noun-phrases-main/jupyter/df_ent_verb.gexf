@@ -1,0 +1,1228 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-03-16">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="salvatore mancuso gómez" label="salvatore mancuso gómez" />
+      <node id="formuló" label="formuló" />
+      <node id="miguel ramón posada castillo" label="miguel ramón posada castillo" />
+      <node id="oscar david polo charris" label="oscar david polo charris" />
+      <node id="sorprendido" label="sorprendido" />
+      <node id="formularon" label="formularon" />
+      <node id="trata" label="trata" />
+      <node id="gustavo rafael ruiz cantillo" label="gustavo rafael ruiz cantillo" />
+      <node id="mediar" label="mediar" />
+      <node id="propinó" label="propinó" />
+      <node id="produciéndole" label="produciéndole" />
+      <node id="alberto martínez macea" label="alberto martínez macea" />
+      <node id="caribe" label="caribe" />
+      <node id="titulado" label="titulado" />
+      <node id="acepta" label="acepta" />
+      <node id="martin toro cañavera" label="martin toro cañavera" />
+      <node id="salió" label="salió" />
+      <node id="interceptado" label="interceptado" />
+      <node id="procedió" label="procedió" />
+      <node id="dispararle" label="dispararle" />
+      <node id="ocasionándole" label="ocasionándole" />
+      <node id="confiesa" label="confiesa" />
+      <node id="ingrid esther cantillo fuentes" label="ingrid esther cantillo fuentes" />
+      <node id="ingresaron" label="ingresaron" />
+      <node id="allí procedieron" label="allí procedieron" />
+      <node id="procedieron" label="procedieron" />
+      <node id="apropiarse" label="apropiarse" />
+      <node id="seguidamente sacaron" label="seguidamente sacaron" />
+      <node id="sacaron" label="sacaron" />
+      <node id="asesinarla" label="asesinarla" />
+      <node id="bahía honda" label="bahía honda" />
+      <node id="expulsión" label="expulsión" />
+      <node id="marlen ascanio pabón" label="marlen ascanio pabón" />
+      <node id="atendiendo" label="atendiendo" />
+      <node id="sorprendida" label="sorprendida" />
+      <node id="pertenecer" label="pertenecer" />
+      <node id="kevin antonio paz ascanio" label="kevin antonio paz ascanio" />
+      <node id="pedro antonio martínez garcía" label="pedro antonio martínez garcía" />
+      <node id="era" label="era" />
+      <node id="contactado" label="contactado" />
+      <node id="ser" label="ser" />
+      <node id="contrató" label="contrató" />
+      <node id="recoger" label="recoger" />
+      <node id="pedro antonio martínez" label="pedro antonio martínez" />
+      <node id="manifestó" label="manifestó" />
+      <node id="negó" label="negó" />
+      <node id="seguir" label="seguir" />
+      <node id="seguir pagando" label="seguir pagando" />
+      <node id="pagando" label="pagando" />
+      <node id="había" label="había" />
+      <node id="había sido" label="había sido" />
+      <node id="sido" label="sido" />
+      <node id="había sido amenazado" label="había sido amenazado" />
+      <node id="sido amenazado" label="sido amenazado" />
+      <node id="amenazado" label="amenazado" />
+      <node id="la mata de aguachica-cesar" label="la mata de aguachica-cesar" />
+      <node id="residir" label="residir" />
+      <node id="fingiendo" label="fingiendo" />
+      <node id="fingiendo acercarse" label="fingiendo acercarse" />
+      <node id="acercarse" label="acercarse" />
+      <node id="comprar" label="comprar" />
+      <node id="producirle" label="producirle" />
+      <node id="john luís aldana martínez" label="john luís aldana martínez" />
+      <node id="javier emilio carreño reyes" label="javier emilio carreño reyes" />
+      <node id="cesar orlando contreras" label="cesar orlando contreras" />
+      <node id="dice" label="dice" />
+      <node id="debió" label="debió" />
+      <node id="ocurrieron" label="ocurrieron" />
+      <node id="arrendó" label="arrendó" />
+      <node id="remodelaron" label="remodelaron" />
+      <node id="haciendo" label="haciendo" />
+      <node id="vencerse" label="vencerse" />
+      <node id="pedimos" label="pedimos" />
+      <node id="son" label="son" />
+      <node id="dijo" label="dijo" />
+      <node id="entregar" label="entregar" />
+      <node id="mandó" label="mandó" />
+      <node id="amenazar" label="amenazar" />
+      <node id="no quiso" label="no quiso" />
+      <node id="quiso" label="quiso" />
+      <node id="quiso vender" label="quiso vender" />
+      <node id="vender" label="vender" />
+      <node id="no quiso vender" label="no quiso vender" />
+      <node id="asesinaron" label="asesinaron" />
+      <node id="ramón eliécer contreras" label="ramón eliécer contreras" />
+      <node id="maría teresa" label="maría teresa" />
+      <node id="ramon contreras" label="ramon contreras" />
+      <node id="después llegaron" label="después llegaron" />
+      <node id="llegaron" label="llegaron" />
+      <node id="hablar" label="hablar" />
+      <node id="llegamos" label="llegamos" />
+      <node id="abrieron" label="abrieron" />
+      <node id="maniataron" label="maniataron" />
+      <node id="hicieron" label="hicieron" />
+      <node id="hicieron firmar" label="hicieron firmar" />
+      <node id="firmar" label="firmar" />
+      <node id="iban" label="iban" />
+      <node id="matar" label="matar" />
+      <node id="pedro jaraba" label="pedro jaraba" />
+      <node id="jovannis manuel lobo jaramillo" label="jovannis manuel lobo jaramillo" />
+      <node id="corroborada" label="corroborada" />
+      <node id="aceptar" label="aceptar" />
+      <node id="describe" label="describe" />
+      <node id="cp" label="cp" />
+      <node id="josé humberto sánchez zapata" label="josé humberto sánchez zapata" />
+      <node id="aprovecharon" label="aprovecharon" />
+      <node id="asesinarlo" label="asesinarlo" />
+      <node id="gladis elena lora sánchez" label="gladis elena lora sánchez" />
+      <node id="asesinado" label="asesinado" />
+      <node id="acercaron" label="acercaron" />
+      <node id="dispararon" label="dispararon" />
+      <node id="rodrigo ahumada lomando" label="rodrigo ahumada lomando" />
+      <node id="willinton mora buenhaber" label="willinton mora buenhaber" />
+      <node id="dio" label="dio" />
+      <node id="matarlo" label="matarlo" />
+      <node id="da" label="da" />
+      <node id="entregaron" label="entregaron" />
+      <node id="además participaron" label="además participaron" />
+      <node id="participaron" label="participaron" />
+      <node id="pulga" label="pulga" />
+      <node id="ubicar" label="ubicar" />
+      <node id="rodrigo alfonso ahumada lomanto" label="rodrigo alfonso ahumada lomanto" />
+      <node id="josé gregorio" label="josé gregorio" />
+      <node id="transmitió" label="transmitió" />
+      <node id="apertura" label="apertura" />
+      <node id="nubia stella monroy rodríguez" label="nubia stella monroy rodríguez" />
+      <node id="avoca" label="avoca" />
+      <node id="rodrigo alfonso ahumada" label="rodrigo alfonso ahumada" />
+      <node id="hace" label="hace" />
+      <node id="accionar" label="accionar" />
+      <node id="willington mora buenhaber" label="willington mora buenhaber" />
+      <node id="carlos tijeras" label="carlos tijeras" />
+      <node id="había contactado" label="había contactado" />
+      <node id="debían" label="debían" />
+      <node id="debían matar" label="debían matar" />
+      <node id="había robado" label="había robado" />
+      <node id="robado" label="robado" />
+      <node id="magdalena das" label="magdalena das" />
+      <node id="informe" label="informe" />
+      <node id="josé alejandro lacera campo" label="josé alejandro lacera campo" />
+      <node id="establecer" label="establecer" />
+      <node id="define" label="define" />
+      <node id="victima" label="victima" />
+      <node id="lacera" label="lacera" />
+      <node id="califica" label="califica" />
+      <node id="confirma" label="confirma" />
+      <node id="josé toro vega" label="josé toro vega" />
+      <node id="marta cristina" label="marta cristina" />
+      <node id="condena" label="condena" />
+      <node id="campo" label="campo" />
+      <node id="rafael antonio pinto navarro" label="rafael antonio pinto navarro" />
+      <node id="abordado" label="abordado" />
+      <node id="propinaron" label="propinaron" />
+      <node id="jesús maría henríquez" label="jesús maría henríquez" />
+      <node id="sucedió" label="sucedió" />
+      <node id="tuvo" label="tuvo" />
+      <node id="ir" label="ir" />
+      <node id="manigua" label="manigua" />
+      <node id="citó" label="citó" />
+      <node id="josé gregorio rojas" label="josé gregorio rojas" />
+      <node id="señor hernán giraldo serna" label="señor hernán giraldo serna" />
+      <node id="rubén giraldo" label="rubén giraldo" />
+      <node id="josé gregorio rojas mendoza" label="josé gregorio rojas mendoza" />
+      <node id="indica" label="indica" />
+      <node id="finalmente materializaron" label="finalmente materializaron" />
+      <node id="materializaron" label="materializaron" />
+      <node id="utilizando" label="utilizando" />
+      <node id="hernán giraldo" label="hernán giraldo" />
+      <node id="reconoce" label="reconoce" />
+      <node id="agrega" label="agrega" />
+      <node id="taganga- magdalena" label="taganga- magdalena" />
+      <node id="pusieran" label="pusieran" />
+      <node id="enteró" label="enteró" />
+      <node id="había dado" label="había dado" />
+      <node id="dado" label="dado" />
+      <node id="saber" label="saber" />
+      <node id="comunicó" label="comunicó" />
+      <node id="habían" label="habían" />
+      <node id="habían cumplido" label="habían cumplido" />
+      <node id="cumplido" label="cumplido" />
+      <node id="quedando" label="quedando" />
+      <node id="averiguar" label="averiguar" />
+      <node id="estuvo" label="estuvo" />
+      <node id="adriano sánchez" label="adriano sánchez" />
+      <node id="rafael antonio" label="rafael antonio" />
+      <node id="diagrama" label="diagrama" />
+      <node id="mercedes" label="mercedes" />
+      <node id="rojas" label="rojas" />
+      <node id="mendoza383" label="mendoza383" />
+      <node id="maría mercedes matos" label="maría mercedes matos" />
+      <node id="jorge eliecer barrios formaris" label="jorge eliecer barrios formaris" />
+      <node id="disparar" label="disparar" />
+      <node id="resultó" label="resultó" />
+      <node id="jhon fredy rojas marín" label="jhon fredy rojas marín" />
+      <node id="permitieron" label="permitieron" />
+      <node id="permitieron establecer" label="permitieron establecer" />
+      <node id="había instaurado" label="había instaurado" />
+      <node id="instaurado" label="instaurado" />
+      <node id="señaló" label="señaló" />
+      <node id="rafael eduardo julio" label="rafael eduardo julio" />
+      <node id="acta" label="acta" />
+      <node id="denuncia" label="denuncia" />
+      <node id="clip" label="clip" />
+      <node id="andrea" label="andrea" />
+      <node id="juan raicar varela silva" label="juan raicar varela silva" />
+      <node id="fueron" label="fueron" />
+      <node id="fueron sorprendidos" label="fueron sorprendidos" />
+      <node id="sorprendidos" label="sorprendidos" />
+      <node id="asesinarlos" label="asesinarlos" />
+      <node id="héctor julio ortiz salcedo" label="héctor julio ortiz salcedo" />
+      <node id="chiquito cuello" label="chiquito cuello" />
+      <node id="señala" label="señala" />
+      <node id="fuera" label="fuera" />
+      <node id="fuera acompañar" label="fuera acompañar" />
+      <node id="acompañar" label="acompañar" />
+      <node id="encontramos" label="encontramos" />
+      <node id="estaban" label="estaban" />
+      <node id="estaban ahí incluyendo" label="estaban ahí incluyendo" />
+      <node id="ahí incluyendo" label="ahí incluyendo" />
+      <node id="incluyendo" label="incluyendo" />
+      <node id="estaban consumiendo" label="estaban consumiendo" />
+      <node id="consumiendo" label="consumiendo" />
+      <node id="quisieron" label="quisieron" />
+      <node id="percataron" label="percataron" />
+      <node id="desenfundando" label="desenfundando" />
+      <node id="presentó" label="presentó" />
+      <node id="negro sabrosón" label="negro sabrosón" />
+      <node id="diéramos" label="diéramos" />
+      <node id="estaba" label="estaba" />
+      <node id="enuncie" label="enuncie" />
+      <node id="edgar ignacio fierro florez" label="edgar ignacio fierro florez" />
+      <node id="aclara" label="aclara" />
+      <node id="no había" label="no había" />
+      <node id="no había sido" label="no había sido" />
+      <node id="había sido comentado" label="había sido comentado" />
+      <node id="sido comentado" label="sido comentado" />
+      <node id="comentado" label="comentado" />
+      <node id="no había sido comentado" label="no había sido comentado" />
+      <node id="héctor julio" label="héctor julio" />
+      <node id="ever mariano" label="ever mariano" />
+      <node id="hubiese" label="hubiese" />
+      <node id="hubiese sucedido" label="hubiese sucedido" />
+      <node id="sucedido" label="sucedido" />
+      <node id="estaba atacando" label="estaba atacando" />
+      <node id="atacando" label="atacando" />
+      <node id="no eran" label="no eran" />
+      <node id="eran" label="eran" />
+      <node id="haya" label="haya" />
+      <node id="haya sucedido" label="haya sucedido" />
+      <node id="cree" label="cree" />
+      <node id="están" label="están" />
+      <node id="están haciendo" label="están haciendo" />
+      <node id="ciencias forenses" label="ciencias forenses" />
+      <node id="raickard" label="raickard" />
+      <node id="pablo taborda yance" label="pablo taborda yance" />
+      <node id="fueron encontrados" label="fueron encontrados" />
+      <node id="encontrados" label="encontrados" />
+      <node id="osvaldo antonio martínez cantillo" label="osvaldo antonio martínez cantillo" />
+      <node id="pernoctando" label="pernoctando" />
+      <node id="atado" label="atado" />
+      <node id="acceder" label="acceder" />
+      <node id="taborda yance" label="taborda yance" />
+      <node id="osvaldo antonio martínez" label="osvaldo antonio martínez" />
+      <node id="ricardo martin robert" label="ricardo martin robert" />
+      <node id="llevó" label="llevó" />
+      <node id="llevaron" label="llevaron" />
+      <node id="allá también procedieron" label="allá también procedieron" />
+      <node id="también procedieron" label="también procedieron" />
+      <node id="chiqui rey ñoño martin" label="chiqui rey ñoño martin" />
+      <node id="estuvieron" label="estuvieron" />
+      <node id="llevamos" label="llevamos" />
+      <node id="dirigimos" label="dirigimos" />
+      <node id="sacamos" label="sacamos" />
+      <node id="estaba huyendo" label="estaba huyendo" />
+      <node id="huyendo" label="huyendo" />
+      <node id="damos" label="damos" />
+      <node id="encuentra" label="encuentra" />
+      <node id="manifestó yance él vivía" label="manifestó yance él vivía" />
+      <node id="pedro luis castro escorcia" label="pedro luis castro escorcia" />
+      <node id="derribar" label="derribar" />
+      <node id="ingresar" label="ingresar" />
+      <node id="interrogaron" label="interrogaron" />
+      <node id="sometido" label="sometido" />
+      <node id="introdujeron" label="introdujeron" />
+      <node id="rompió" label="rompió" />
+      <node id="informar" label="informar" />
+      <node id="trasladados" label="trasladados" />
+      <node id="asesinar" label="asesinar" />
+      <node id="posteriormente pintaron" label="posteriormente pintaron" />
+      <node id="pintaron" label="pintaron" />
+      <node id="jairo antonio castro escorcia" label="jairo antonio castro escorcia" />
+      <node id="jesús escorcia zarate" label="jesús escorcia zarate" />
+      <node id="reynaldo escorcia orozco" label="reynaldo escorcia orozco" />
+      <node id="simpson noño robert" label="simpson noño robert" />
+      <node id="reunimos" label="reunimos" />
+      <node id="buscar" label="buscar" />
+      <node id="no tengo" label="no tengo" />
+      <node id="tengo" label="tengo" />
+      <node id="pedro luis castro escorciaprotocolo" label="pedro luis castro escorciaprotocolo" />
+      <node id="identificado" label="identificado" />
+      <node id="muestra" label="muestra" />
+      <node id="edgar ignacio fierro flores" label="edgar ignacio fierro flores" />
+      <node id="jair josé martes reyes" label="jair josé martes reyes" />
+      <node id="dejando" label="dejando" />
+      <node id="cobrar" label="cobrar" />
+      <node id="evaristo josé mendoza rodríguez" label="evaristo josé mendoza rodríguez" />
+      <node id="roberto rafael racedo mercado" label="roberto rafael racedo mercado" />
+      <node id="alexander pedroza rojano" label="alexander pedroza rojano" />
+      <node id="fabián enrique álvarez gutiérrez" label="fabián enrique álvarez gutiérrez" />
+      <node id="rafael josé segura gómez" label="rafael josé segura gómez" />
+      <node id="rafael josé segura" label="rafael josé segura" />
+      <node id="carlos romero cuartas" label="carlos romero cuartas" />
+      <node id="erwin cepeda calao" label="erwin cepeda calao" />
+      <node id="ricardo lidueña iglesia" label="ricardo lidueña iglesia" />
+      <node id="estaba robando" label="estaba robando" />
+      <node id="robando" label="robando" />
+      <node id="estaban robando" label="estaban robando" />
+      <node id="ubica" label="ubica" />
+      <node id="dirijo" label="dirijo" />
+      <node id="jorge ignacio" label="jorge ignacio" />
+      <node id="eduardo rafael" label="eduardo rafael" />
+      <node id="seguidamente fueron" label="seguidamente fueron" />
+      <node id="fueron llevados" label="fueron llevados" />
+      <node id="llevados" label="llevados" />
+      <node id="seguidamente fueron llevados" label="seguidamente fueron llevados" />
+      <node id="randi escobar morales" label="randi escobar morales" />
+      <node id="alias" label="alias" />
+      <node id="manifiesta" label="manifiesta" />
+      <node id="habían hecho" label="habían hecho" />
+      <node id="hecho" label="hecho" />
+      <node id="asesinaran" label="asesinaran" />
+      <node id="queda" label="queda" />
+      <node id="llegar" label="llegar" />
+      <node id="no recuerdo" label="no recuerdo" />
+      <node id="recuerdo" label="recuerdo" />
+      <node id="eran eran" label="eran eran" />
+      <node id="todavía eran" label="todavía eran" />
+      <node id="dejamos" label="dejamos" />
+      <node id="jorge" label="jorge" />
+      <node id="ignacio" label="ignacio" />
+      <node id="asesinen" label="asesinen" />
+      <node id="rancho grande" label="rancho grande" />
+      <node id="había tenido" label="había tenido" />
+      <node id="tenido" label="tenido" />
+      <node id="habían hurtado" label="habían hurtado" />
+      <node id="hurtado" label="hurtado" />
+      <node id="informaron" label="informaron" />
+      <node id="habían sido" label="habían sido" />
+      <node id="cometieron" label="cometieron" />
+      <node id="entrar" label="entrar" />
+      <node id="darwin antonio tejada" label="darwin antonio tejada" />
+      <node id="eran acusados" label="eran acusados" />
+      <node id="acusados" label="acusados" />
+      <node id="realizar" label="realizar" />
+      <node id="josé luís moreno murillo" label="josé luís moreno murillo" />
+      <node id="según precisó" label="según precisó" />
+      <node id="precisó" label="precisó" />
+      <node id="perteneció" label="perteneció" />
+      <node id="había desertado" label="había desertado" />
+      <node id="desertado" label="desertado" />
+      <node id="julio soldadito camilo chiqui" label="julio soldadito camilo chiqui" />
+      <node id="participe" label="participe" />
+      <node id="hizo" label="hizo" />
+      <node id="desplazamos" label="desplazamos" />
+      <node id="no dispare" label="no dispare" />
+      <node id="dispare" label="dispare" />
+      <node id="dispare preste" label="dispare preste" />
+      <node id="preste" label="preste" />
+      <node id="no dispare preste" label="no dispare preste" />
+      <node id="josé luis" label="josé luis" />
+      <node id="santa marta" label="santa marta" />
+      <node id="acepte" label="acepte" />
+      <node id="escapó" label="escapó" />
+      <node id="procedí" label="procedí" />
+      <node id="metimos" label="metimos" />
+      <node id="ahí asesinamos" label="ahí asesinamos" />
+      <node id="asesinamos" label="asesinamos" />
+      <node id="vamos" label="vamos" />
+      <node id="robert tata" label="robert tata" />
+      <node id="recomienda" label="recomienda" />
+      <node id="ya lleva" label="ya lleva" />
+      <node id="lleva" label="lleva" />
+      <node id="descargaran" label="descargaran" />
+      <node id="quedo" label="quedo" />
+      <node id="quedo afuera" label="quedo afuera" />
+      <node id="afuera" label="afuera" />
+      <node id="creo" label="creo" />
+      <node id="hicimos" label="hicimos" />
+      <node id="regresa" label="regresa" />
+      <node id="había invadido" label="había invadido" />
+      <node id="invadido" label="invadido" />
+      <node id="escoge" label="escoge" />
+      <node id="tata chiqui" label="tata chiqui" />
+      <node id="llegue" label="llegue" />
+      <node id="asesine" label="asesine" />
+      <node id="disparo" label="disparo" />
+      <node id="entra" label="entra" />
+      <node id="pone" label="pone" />
+      <node id="tira" label="tira" />
+      <node id="disparo pido" label="disparo pido" />
+      <node id="pido" label="pido" />
+      <node id="alias robert" label="alias robert" />
+      <node id="diario el heraldo" label="diario el heraldo" />
+      <node id="registra" label="registra" />
+      <node id="sufrido" label="sufrido" />
+      <node id="castulo rafael hernández bustamante" label="castulo rafael hernández bustamante" />
+      <node id="llego" label="llego" />
+      <node id="metí" label="metí" />
+      <node id="ver" label="ver" />
+      <node id="dimos" label="dimos" />
+      <node id="disparo robert" label="disparo robert" />
+      <node id="profirió" label="profirió" />
+      <node id="farith enrique zambrano meza" label="farith enrique zambrano meza" />
+      <node id="fueron asesinados" label="fueron asesinados" />
+      <node id="asesinados" label="asesinados" />
+      <node id="reynaldo orozco escorcia" label="reynaldo orozco escorcia" />
+      <node id="rodeamos" label="rodeamos" />
+      <node id="existe" label="existe" />
+    </nodes>
+    <edges>
+      <edge source="salvatore mancuso gómez" target="formuló" id="0" />
+      <edge source="salvatore mancuso gómez" target="formularon" id="1" />
+      <edge source="salvatore mancuso gómez" target="trata" id="2" />
+      <edge source="salvatore mancuso gómez" target="expulsión" id="3" />
+      <edge source="salvatore mancuso gómez" target="cp" id="4" />
+      <edge source="salvatore mancuso gómez" target="clip" id="5" />
+      <edge source="formuló" target="miguel ramón posada castillo" id="6" />
+      <edge source="formuló" target="edgar ignacio fierro flores" id="7" />
+      <edge source="miguel ramón posada castillo" target="sorprendido" id="8" />
+      <edge source="oscar david polo charris" target="sorprendido" id="9" />
+      <edge source="sorprendido" target="gustavo rafael ruiz cantillo" id="10" />
+      <edge source="sorprendido" target="alberto martínez macea" id="11" />
+      <edge source="sorprendido" target="jorge eliecer barrios formaris" id="12" />
+      <edge source="sorprendido" target="pablo taborda yance" id="13" />
+      <edge source="sorprendido" target="taborda yance" id="14" />
+      <edge source="sorprendido" target="osvaldo antonio martínez" id="15" />
+      <edge source="formularon" target="edgar ignacio fierro flores" id="16" />
+      <edge source="trata" target="edgar ignacio fierro flores" id="17" />
+      <edge source="gustavo rafael ruiz cantillo" target="mediar" id="18" />
+      <edge source="gustavo rafael ruiz cantillo" target="propinó" id="19" />
+      <edge source="gustavo rafael ruiz cantillo" target="produciéndole" id="20" />
+      <edge source="gustavo rafael ruiz cantillo" target="caribe" id="21" />
+      <edge source="gustavo rafael ruiz cantillo" target="titulado" id="22" />
+      <edge source="gustavo rafael ruiz cantillo" target="acepta" id="23" />
+      <edge source="mediar" target="alberto martínez macea" id="24" />
+      <edge source="mediar" target="martin toro cañavera" id="25" />
+      <edge source="mediar" target="jorge eliecer barrios formaris" id="26" />
+      <edge source="mediar" target="darwin antonio tejada" id="27" />
+      <edge source="mediar" target="josé luís moreno murillo" id="28" />
+      <edge source="mediar" target="castulo rafael hernández bustamante" id="29" />
+      <edge source="propinó" target="alberto martínez macea" id="30" />
+      <edge source="produciéndole" target="alberto martínez macea" id="31" />
+      <edge source="alberto martínez macea" target="acepta" id="32" />
+      <edge source="alberto martínez macea" target="salió" id="33" />
+      <edge source="alberto martínez macea" target="interceptado" id="34" />
+      <edge source="alberto martínez macea" target="procedió" id="35" />
+      <edge source="alberto martínez macea" target="dispararle" id="36" />
+      <edge source="alberto martínez macea" target="ocasionándole" id="37" />
+      <edge source="alberto martínez macea" target="confiesa" id="38" />
+      <edge source="acepta" target="josé gregorio rojas" id="39" />
+      <edge source="acepta" target="señor hernán giraldo serna" id="40" />
+      <edge source="acepta" target="rubén giraldo" id="41" />
+      <edge source="acepta" target="edgar ignacio fierro florez" id="42" />
+      <edge source="acepta" target="héctor julio" id="43" />
+      <edge source="martin toro cañavera" target="salió" id="44" />
+      <edge source="martin toro cañavera" target="interceptado" id="45" />
+      <edge source="martin toro cañavera" target="procedió" id="46" />
+      <edge source="martin toro cañavera" target="dispararle" id="47" />
+      <edge source="martin toro cañavera" target="ocasionándole" id="48" />
+      <edge source="martin toro cañavera" target="confiesa" id="49" />
+      <edge source="procedió" target="la mata de aguachica-cesar" id="50" />
+      <edge source="procedió" target="john luís aldana martínez" id="51" />
+      <edge source="dispararle" target="rafael eduardo julio" id="52" />
+      <edge source="dispararle" target="alias robert" id="53" />
+      <edge source="ocasionándole" target="la mata de aguachica-cesar" id="54" />
+      <edge source="ocasionándole" target="john luís aldana martínez" id="55" />
+      <edge source="ocasionándole" target="rafael antonio pinto navarro" id="56" />
+      <edge source="ocasionándole" target="jorge eliecer barrios formaris" id="57" />
+      <edge source="confiesa" target="josé gregorio rojas" id="58" />
+      <edge source="confiesa" target="señor hernán giraldo serna" id="59" />
+      <edge source="confiesa" target="rubén giraldo" id="60" />
+      <edge source="ingrid esther cantillo fuentes" target="ingresaron" id="61" />
+      <edge source="ingrid esther cantillo fuentes" target="allí procedieron" id="62" />
+      <edge source="ingrid esther cantillo fuentes" target="procedieron" id="63" />
+      <edge source="ingrid esther cantillo fuentes" target="apropiarse" id="64" />
+      <edge source="ingrid esther cantillo fuentes" target="seguidamente sacaron" id="65" />
+      <edge source="ingrid esther cantillo fuentes" target="sacaron" id="66" />
+      <edge source="ingrid esther cantillo fuentes" target="asesinarla" id="67" />
+      <edge source="ingresaron" target="bahía honda" id="68" />
+      <edge source="ingresaron" target="eduardo rafael" id="69" />
+      <edge source="ingresaron" target="randi escobar morales" id="70" />
+      <edge source="allí procedieron" target="bahía honda" id="71" />
+      <edge source="allí procedieron" target="pedro luis castro escorcia" id="72" />
+      <edge source="allí procedieron" target="jairo antonio castro escorcia" id="73" />
+      <edge source="allí procedieron" target="jesús escorcia zarate" id="74" />
+      <edge source="procedieron" target="bahía honda" id="75" />
+      <edge source="procedieron" target="marlen ascanio pabón" id="76" />
+      <edge source="procedieron" target="kevin antonio paz ascanio" id="77" />
+      <edge source="procedieron" target="jorge eliecer barrios formaris" id="78" />
+      <edge source="procedieron" target="juan raicar varela silva" id="79" />
+      <edge source="procedieron" target="héctor julio ortiz salcedo" id="80" />
+      <edge source="procedieron" target="ricardo martin robert" id="81" />
+      <edge source="procedieron" target="pedro luis castro escorcia" id="82" />
+      <edge source="procedieron" target="jairo antonio castro escorcia" id="83" />
+      <edge source="procedieron" target="jesús escorcia zarate" id="84" />
+      <edge source="procedieron" target="jair josé martes reyes" id="85" />
+      <edge source="procedieron" target="evaristo josé mendoza rodríguez" id="86" />
+      <edge source="procedieron" target="roberto rafael racedo mercado" id="87" />
+      <edge source="procedieron" target="alexander pedroza rojano" id="88" />
+      <edge source="procedieron" target="rafael josé segura gómez" id="89" />
+      <edge source="procedieron" target="rafael josé segura" id="90" />
+      <edge source="procedieron" target="erwin cepeda calao" id="91" />
+      <edge source="procedieron" target="ricardo lidueña iglesia" id="92" />
+      <edge source="procedieron" target="eduardo rafael" id="93" />
+      <edge source="procedieron" target="randi escobar morales" id="94" />
+      <edge source="procedieron" target="darwin antonio tejada" id="95" />
+      <edge source="procedieron" target="josé luís moreno murillo" id="96" />
+      <edge source="procedieron" target="castulo rafael hernández bustamante" id="97" />
+      <edge source="apropiarse" target="bahía honda" id="98" />
+      <edge source="seguidamente sacaron" target="bahía honda" id="99" />
+      <edge source="sacaron" target="bahía honda" id="100" />
+      <edge source="sacaron" target="ramon contreras" id="101" />
+      <edge source="sacaron" target="pedro jaraba" id="102" />
+      <edge source="asesinarla" target="bahía honda" id="103" />
+      <edge source="asesinarla" target="marlen ascanio pabón" id="104" />
+      <edge source="asesinarla" target="kevin antonio paz ascanio" id="105" />
+      <edge source="marlen ascanio pabón" target="atendiendo" id="106" />
+      <edge source="marlen ascanio pabón" target="sorprendida" id="107" />
+      <edge source="marlen ascanio pabón" target="pertenecer" id="108" />
+      <edge source="atendiendo" target="kevin antonio paz ascanio" id="109" />
+      <edge source="atendiendo" target="josé humberto sánchez zapata" id="110" />
+      <edge source="sorprendida" target="kevin antonio paz ascanio" id="111" />
+      <edge source="pertenecer" target="kevin antonio paz ascanio" id="112" />
+      <edge source="pedro antonio martínez garcía" target="era" id="113" />
+      <edge source="pedro antonio martínez garcía" target="contactado" id="114" />
+      <edge source="pedro antonio martínez garcía" target="ser" id="115" />
+      <edge source="pedro antonio martínez garcía" target="contrató" id="116" />
+      <edge source="pedro antonio martínez garcía" target="recoger" id="117" />
+      <edge source="era" target="willinton mora buenhaber" id="118" />
+      <edge source="era" target="rodrigo alfonso ahumada lomanto" id="119" />
+      <edge source="era" target="carlos tijeras" id="120" />
+      <edge source="era" target="jesús maría henríquez" id="121" />
+      <edge source="era" target="taganga- magdalena" id="122" />
+      <edge source="era" target="hernán giraldo" id="123" />
+      <edge source="era" target="josé gregorio" id="124" />
+      <edge source="era" target="adriano sánchez" id="125" />
+      <edge source="era" target="negro sabrosón" id="126" />
+      <edge source="era" target="rafael eduardo julio" id="127" />
+      <edge source="era" target="josé luis" id="128" />
+      <edge source="era" target="robert tata" id="129" />
+      <edge source="era" target="tata chiqui" id="130" />
+      <edge source="contactado" target="carlos tijeras" id="131" />
+      <edge source="ser" target="jhon fredy rojas marín" id="132" />
+      <edge source="ser" target="juan raicar varela silva" id="133" />
+      <edge source="ser" target="héctor julio ortiz salcedo" id="134" />
+      <edge source="ser" target="pablo taborda yance" id="135" />
+      <edge source="ser" target="taborda yance" id="136" />
+      <edge source="ser" target="osvaldo antonio martínez" id="137" />
+      <edge source="ser" target="eduardo rafael" id="138" />
+      <edge source="ser" target="randi escobar morales" id="139" />
+      <edge source="ser" target="castulo rafael hernández bustamante" id="140" />
+      <edge source="pedro antonio martínez" target="manifestó" id="141" />
+      <edge source="pedro antonio martínez" target="negó" id="142" />
+      <edge source="pedro antonio martínez" target="seguir" id="143" />
+      <edge source="pedro antonio martínez" target="seguir pagando" id="144" />
+      <edge source="pedro antonio martínez" target="pagando" id="145" />
+      <edge source="pedro antonio martínez" target="había" id="146" />
+      <edge source="pedro antonio martínez" target="había sido" id="147" />
+      <edge source="pedro antonio martínez" target="sido" id="148" />
+      <edge source="pedro antonio martínez" target="había sido amenazado" id="149" />
+      <edge source="pedro antonio martínez" target="sido amenazado" id="150" />
+      <edge source="pedro antonio martínez" target="amenazado" id="151" />
+      <edge source="manifestó" target="javier emilio carreño reyes" id="152" />
+      <edge source="manifestó" target="gladis elena lora sánchez" id="153" />
+      <edge source="manifestó" target="rodrigo ahumada lomando" id="154" />
+      <edge source="manifestó" target="carlos tijeras" id="155" />
+      <edge source="manifestó" target="rafael eduardo julio" id="156" />
+      <edge source="manifestó" target="manifestó yance él vivía" id="157" />
+      <edge source="manifestó" target="jorge ignacio" id="158" />
+      <edge source="manifestó" target="rancho grande" id="159" />
+      <edge source="había" target="carlos tijeras" id="160" />
+      <edge source="había" target="taganga- magdalena" id="161" />
+      <edge source="había" target="hernán giraldo" id="162" />
+      <edge source="había" target="josé gregorio" id="163" />
+      <edge source="había" target="adriano sánchez" id="164" />
+      <edge source="había" target="jhon fredy rojas marín" id="165" />
+      <edge source="había" target="edgar ignacio fierro florez" id="166" />
+      <edge source="había" target="héctor julio" id="167" />
+      <edge source="había" target="rancho grande" id="168" />
+      <edge source="había" target="según precisó" id="169" />
+      <edge source="había" target="robert tata" id="170" />
+      <edge source="había sido" target="edgar ignacio fierro florez" id="171" />
+      <edge source="había sido" target="héctor julio" id="172" />
+      <edge source="sido" target="edgar ignacio fierro florez" id="173" />
+      <edge source="sido" target="héctor julio" id="174" />
+      <edge source="sido" target="rancho grande" id="175" />
+      <edge source="la mata de aguachica-cesar" target="residir" id="176" />
+      <edge source="la mata de aguachica-cesar" target="fingiendo" id="177" />
+      <edge source="la mata de aguachica-cesar" target="fingiendo acercarse" id="178" />
+      <edge source="la mata de aguachica-cesar" target="acercarse" id="179" />
+      <edge source="la mata de aguachica-cesar" target="comprar" id="180" />
+      <edge source="la mata de aguachica-cesar" target="producirle" id="181" />
+      <edge source="residir" target="john luís aldana martínez" id="182" />
+      <edge source="fingiendo" target="john luís aldana martínez" id="183" />
+      <edge source="fingiendo acercarse" target="john luís aldana martínez" id="184" />
+      <edge source="acercarse" target="john luís aldana martínez" id="185" />
+      <edge source="comprar" target="john luís aldana martínez" id="186" />
+      <edge source="comprar" target="josé humberto sánchez zapata" id="187" />
+      <edge source="producirle" target="john luís aldana martínez" id="188" />
+      <edge source="cesar orlando contreras" target="dice" id="189" />
+      <edge source="cesar orlando contreras" target="debió" id="190" />
+      <edge source="cesar orlando contreras" target="ocurrieron" id="191" />
+      <edge source="cesar orlando contreras" target="arrendó" id="192" />
+      <edge source="cesar orlando contreras" target="remodelaron" id="193" />
+      <edge source="cesar orlando contreras" target="haciendo" id="194" />
+      <edge source="cesar orlando contreras" target="vencerse" id="195" />
+      <edge source="cesar orlando contreras" target="pedimos" id="196" />
+      <edge source="cesar orlando contreras" target="son" id="197" />
+      <edge source="cesar orlando contreras" target="dijo" id="198" />
+      <edge source="cesar orlando contreras" target="entregar" id="199" />
+      <edge source="cesar orlando contreras" target="mandó" id="200" />
+      <edge source="cesar orlando contreras" target="amenazar" id="201" />
+      <edge source="cesar orlando contreras" target="no quiso" id="202" />
+      <edge source="cesar orlando contreras" target="quiso" id="203" />
+      <edge source="cesar orlando contreras" target="quiso vender" id="204" />
+      <edge source="cesar orlando contreras" target="vender" id="205" />
+      <edge source="cesar orlando contreras" target="no quiso vender" id="206" />
+      <edge source="cesar orlando contreras" target="asesinaron" id="207" />
+      <edge source="dice" target="ramón eliécer contreras" id="208" />
+      <edge source="dice" target="maría teresa" id="209" />
+      <edge source="dice" target="ever mariano" id="210" />
+      <edge source="dice" target="rafael eduardo julio" id="211" />
+      <edge source="dice" target="jorge ignacio" id="212" />
+      <edge source="dice" target="santa marta" id="213" />
+      <edge source="debió" target="ramón eliécer contreras" id="214" />
+      <edge source="debió" target="maría teresa" id="215" />
+      <edge source="ocurrieron" target="ramón eliécer contreras" id="216" />
+      <edge source="ocurrieron" target="maría teresa" id="217" />
+      <edge source="ocurrieron" target="chiqui rey ñoño martin" id="218" />
+      <edge source="arrendó" target="ramón eliécer contreras" id="219" />
+      <edge source="arrendó" target="maría teresa" id="220" />
+      <edge source="remodelaron" target="ramón eliécer contreras" id="221" />
+      <edge source="remodelaron" target="maría teresa" id="222" />
+      <edge source="haciendo" target="ramón eliécer contreras" id="223" />
+      <edge source="haciendo" target="maría teresa" id="224" />
+      <edge source="haciendo" target="ever mariano" id="225" />
+      <edge source="vencerse" target="ramón eliécer contreras" id="226" />
+      <edge source="vencerse" target="maría teresa" id="227" />
+      <edge source="pedimos" target="ramón eliécer contreras" id="228" />
+      <edge source="pedimos" target="maría teresa" id="229" />
+      <edge source="son" target="ramón eliécer contreras" id="230" />
+      <edge source="son" target="maría teresa" id="231" />
+      <edge source="dijo" target="ramón eliécer contreras" id="232" />
+      <edge source="dijo" target="maría teresa" id="233" />
+      <edge source="dijo" target="willinton mora buenhaber" id="234" />
+      <edge source="dijo" target="rodrigo alfonso ahumada lomanto" id="235" />
+      <edge source="dijo" target="chiquito cuello" id="236" />
+      <edge source="dijo" target="negro sabrosón" id="237" />
+      <edge source="dijo" target="rafael eduardo julio" id="238" />
+      <edge source="dijo" target="jorge ignacio" id="239" />
+      <edge source="dijo" target="robert tata" id="240" />
+      <edge source="entregar" target="ramón eliécer contreras" id="241" />
+      <edge source="entregar" target="maría teresa" id="242" />
+      <edge source="mandó" target="ramón eliécer contreras" id="243" />
+      <edge source="mandó" target="maría teresa" id="244" />
+      <edge source="amenazar" target="ramón eliécer contreras" id="245" />
+      <edge source="amenazar" target="maría teresa" id="246" />
+      <edge source="no quiso" target="ramón eliécer contreras" id="247" />
+      <edge source="no quiso" target="maría teresa" id="248" />
+      <edge source="quiso" target="ramón eliécer contreras" id="249" />
+      <edge source="quiso" target="maría teresa" id="250" />
+      <edge source="quiso vender" target="ramón eliécer contreras" id="251" />
+      <edge source="quiso vender" target="maría teresa" id="252" />
+      <edge source="vender" target="ramón eliécer contreras" id="253" />
+      <edge source="vender" target="maría teresa" id="254" />
+      <edge source="no quiso vender" target="ramón eliécer contreras" id="255" />
+      <edge source="no quiso vender" target="maría teresa" id="256" />
+      <edge source="asesinaron" target="ramón eliécer contreras" id="257" />
+      <edge source="asesinaron" target="maría teresa" id="258" />
+      <edge source="ramon contreras" target="después llegaron" id="259" />
+      <edge source="ramon contreras" target="llegaron" id="260" />
+      <edge source="ramon contreras" target="hablar" id="261" />
+      <edge source="ramon contreras" target="llegamos" id="262" />
+      <edge source="ramon contreras" target="abrieron" id="263" />
+      <edge source="ramon contreras" target="maniataron" id="264" />
+      <edge source="ramon contreras" target="hicieron" id="265" />
+      <edge source="ramon contreras" target="hicieron firmar" id="266" />
+      <edge source="ramon contreras" target="firmar" id="267" />
+      <edge source="ramon contreras" target="iban" id="268" />
+      <edge source="ramon contreras" target="matar" id="269" />
+      <edge source="después llegaron" target="pedro jaraba" id="270" />
+      <edge source="llegaron" target="pedro jaraba" id="271" />
+      <edge source="llegaron" target="josé humberto sánchez zapata" id="272" />
+      <edge source="llegaron" target="taganga- magdalena" id="273" />
+      <edge source="llegaron" target="hernán giraldo" id="274" />
+      <edge source="llegaron" target="josé gregorio" id="275" />
+      <edge source="llegaron" target="adriano sánchez" id="276" />
+      <edge source="llegaron" target="pedro luis castro escorcia" id="277" />
+      <edge source="llegaron" target="jairo antonio castro escorcia" id="278" />
+      <edge source="llegaron" target="jesús escorcia zarate" id="279" />
+      <edge source="llegaron" target="farith enrique zambrano meza" id="280" />
+      <edge source="hablar" target="pedro jaraba" id="281" />
+      <edge source="llegamos" target="pedro jaraba" id="282" />
+      <edge source="llegamos" target="chiquito cuello" id="283" />
+      <edge source="llegamos" target="julio soldadito camilo chiqui" id="284" />
+      <edge source="llegamos" target="tata chiqui" id="285" />
+      <edge source="llegamos" target="reynaldo orozco escorcia" id="286" />
+      <edge source="abrieron" target="pedro jaraba" id="287" />
+      <edge source="maniataron" target="pedro jaraba" id="288" />
+      <edge source="hicieron" target="pedro jaraba" id="289" />
+      <edge source="hicieron firmar" target="pedro jaraba" id="290" />
+      <edge source="firmar" target="pedro jaraba" id="291" />
+      <edge source="iban" target="pedro jaraba" id="292" />
+      <edge source="iban" target="robert tata" id="293" />
+      <edge source="matar" target="pedro jaraba" id="294" />
+      <edge source="matar" target="carlos tijeras" id="295" />
+      <edge source="jovannis manuel lobo jaramillo" target="corroborada" id="296" />
+      <edge source="jovannis manuel lobo jaramillo" target="aceptar" id="297" />
+      <edge source="jovannis manuel lobo jaramillo" target="describe" id="298" />
+      <edge source="josé humberto sánchez zapata" target="aprovecharon" id="299" />
+      <edge source="josé humberto sánchez zapata" target="asesinarlo" id="300" />
+      <edge source="asesinarlo" target="robert tata" id="301" />
+      <edge source="gladis elena lora sánchez" target="asesinado" id="302" />
+      <edge source="gladis elena lora sánchez" target="acercaron" id="303" />
+      <edge source="gladis elena lora sánchez" target="dispararon" id="304" />
+      <edge source="asesinado" target="rodrigo ahumada lomando" id="305" />
+      <edge source="asesinado" target="pablo taborda yance" id="306" />
+      <edge source="asesinado" target="taborda yance" id="307" />
+      <edge source="asesinado" target="osvaldo antonio martínez" id="308" />
+      <edge source="acercaron" target="rodrigo ahumada lomando" id="309" />
+      <edge source="dispararon" target="rodrigo ahumada lomando" id="310" />
+      <edge source="dispararon" target="ricardo martin robert" id="311" />
+      <edge source="willinton mora buenhaber" target="dio" id="312" />
+      <edge source="willinton mora buenhaber" target="matarlo" id="313" />
+      <edge source="willinton mora buenhaber" target="da" id="314" />
+      <edge source="willinton mora buenhaber" target="entregaron" id="315" />
+      <edge source="willinton mora buenhaber" target="además participaron" id="316" />
+      <edge source="willinton mora buenhaber" target="participaron" id="317" />
+      <edge source="willinton mora buenhaber" target="pulga" id="318" />
+      <edge source="willinton mora buenhaber" target="ubicar" id="319" />
+      <edge source="dio" target="rodrigo alfonso ahumada lomanto" id="320" />
+      <edge source="dio" target="josé gregorio" id="321" />
+      <edge source="dio" target="josé gregorio rojas mendoza" id="322" />
+      <edge source="dio" target="hernán giraldo" id="323" />
+      <edge source="dio" target="chiquito cuello" id="324" />
+      <edge source="matarlo" target="rodrigo alfonso ahumada lomanto" id="325" />
+      <edge source="da" target="rodrigo alfonso ahumada lomanto" id="326" />
+      <edge source="da" target="juan raicar varela silva" id="327" />
+      <edge source="da" target="héctor julio ortiz salcedo" id="328" />
+      <edge source="da" target="rafael eduardo julio" id="329" />
+      <edge source="da" target="jorge ignacio" id="330" />
+      <edge source="entregaron" target="rodrigo alfonso ahumada lomanto" id="331" />
+      <edge source="además participaron" target="rodrigo alfonso ahumada lomanto" id="332" />
+      <edge source="participaron" target="rodrigo alfonso ahumada lomanto" id="333" />
+      <edge source="pulga" target="rodrigo alfonso ahumada lomanto" id="334" />
+      <edge source="ubicar" target="rodrigo alfonso ahumada lomanto" id="335" />
+      <edge source="rodrigo alfonso ahumada lomanto" target="apertura" id="336" />
+      <edge source="josé gregorio" target="transmitió" id="337" />
+      <edge source="josé gregorio" target="pusieran" id="338" />
+      <edge source="josé gregorio" target="sucedió" id="339" />
+      <edge source="josé gregorio" target="enteró" id="340" />
+      <edge source="josé gregorio" target="había dado" id="341" />
+      <edge source="josé gregorio" target="dado" id="342" />
+      <edge source="josé gregorio" target="saber" id="343" />
+      <edge source="josé gregorio" target="comunicó" id="344" />
+      <edge source="josé gregorio" target="habían" id="345" />
+      <edge source="josé gregorio" target="habían cumplido" id="346" />
+      <edge source="josé gregorio" target="cumplido" id="347" />
+      <edge source="josé gregorio" target="quedando" id="348" />
+      <edge source="josé gregorio" target="averiguar" id="349" />
+      <edge source="josé gregorio" target="estuvo" id="350" />
+      <edge source="transmitió" target="josé gregorio rojas" id="351" />
+      <edge source="transmitió" target="señor hernán giraldo serna" id="352" />
+      <edge source="transmitió" target="rubén giraldo" id="353" />
+      <edge source="nubia stella monroy rodríguez" target="avoca" id="354" />
+      <edge source="nubia stella monroy rodríguez" target="hace" id="355" />
+      <edge source="nubia stella monroy rodríguez" target="accionar" id="356" />
+      <edge source="rodrigo alfonso ahumada" target="hace" id="357" />
+      <edge source="rodrigo alfonso ahumada" target="accionar" id="358" />
+      <edge source="hace" target="willington mora buenhaber" id="359" />
+      <edge source="hace" target="ever mariano" id="360" />
+      <edge source="accionar" target="willington mora buenhaber" id="361" />
+      <edge source="carlos tijeras" target="había contactado" id="362" />
+      <edge source="carlos tijeras" target="debían" id="363" />
+      <edge source="carlos tijeras" target="debían matar" id="364" />
+      <edge source="carlos tijeras" target="había robado" id="365" />
+      <edge source="carlos tijeras" target="robado" id="366" />
+      <edge source="magdalena das" target="informe" id="367" />
+      <edge source="informe" target="josé toro vega" id="368" />
+      <edge source="informe" target="josé alejandro lacera campo" id="369" />
+      <edge source="josé alejandro lacera campo" target="establecer" id="370" />
+      <edge source="josé alejandro lacera campo" target="define" id="371" />
+      <edge source="josé alejandro lacera campo" target="victima" id="372" />
+      <edge source="josé alejandro lacera campo" target="lacera" id="373" />
+      <edge source="josé alejandro lacera campo" target="califica" id="374" />
+      <edge source="josé alejandro lacera campo" target="confirma" id="375" />
+      <edge source="josé alejandro lacera campo" target="condena" id="376" />
+      <edge source="josé alejandro lacera campo" target="campo" id="377" />
+      <edge source="establecer" target="josé toro vega" id="378" />
+      <edge source="establecer" target="marta cristina" id="379" />
+      <edge source="establecer" target="jhon fredy rojas marín" id="380" />
+      <edge source="define" target="josé toro vega" id="381" />
+      <edge source="define" target="marta cristina" id="382" />
+      <edge source="victima" target="josé toro vega" id="383" />
+      <edge source="victima" target="marta cristina" id="384" />
+      <edge source="lacera" target="josé toro vega" id="385" />
+      <edge source="lacera" target="marta cristina" id="386" />
+      <edge source="califica" target="josé toro vega" id="387" />
+      <edge source="califica" target="marta cristina" id="388" />
+      <edge source="confirma" target="josé toro vega" id="389" />
+      <edge source="confirma" target="marta cristina" id="390" />
+      <edge source="josé toro vega" target="condena" id="391" />
+      <edge source="josé toro vega" target="campo" id="392" />
+      <edge source="rafael antonio pinto navarro" target="abordado" id="393" />
+      <edge source="rafael antonio pinto navarro" target="propinaron" id="394" />
+      <edge source="jesús maría henríquez" target="sucedió" id="395" />
+      <edge source="jesús maría henríquez" target="tuvo" id="396" />
+      <edge source="jesús maría henríquez" target="ir" id="397" />
+      <edge source="jesús maría henríquez" target="manigua" id="398" />
+      <edge source="jesús maría henríquez" target="citó" id="399" />
+      <edge source="sucedió" target="taganga- magdalena" id="400" />
+      <edge source="sucedió" target="hernán giraldo" id="401" />
+      <edge source="sucedió" target="adriano sánchez" id="402" />
+      <edge source="ir" target="santa marta" id="403" />
+      <edge source="josé gregorio rojas" target="diagrama" id="404" />
+      <edge source="josé gregorio rojas" target="mercedes" id="405" />
+      <edge source="josé gregorio rojas" target="rojas" id="406" />
+      <edge source="josé gregorio rojas" target="mendoza383" id="407" />
+      <edge source="josé gregorio rojas mendoza" target="indica" id="408" />
+      <edge source="josé gregorio rojas mendoza" target="finalmente materializaron" id="409" />
+      <edge source="josé gregorio rojas mendoza" target="materializaron" id="410" />
+      <edge source="josé gregorio rojas mendoza" target="utilizando" id="411" />
+      <edge source="hernán giraldo" target="reconoce" id="412" />
+      <edge source="hernán giraldo" target="agrega" id="413" />
+      <edge source="hernán giraldo" target="pusieran" id="414" />
+      <edge source="hernán giraldo" target="enteró" id="415" />
+      <edge source="hernán giraldo" target="había dado" id="416" />
+      <edge source="hernán giraldo" target="dado" id="417" />
+      <edge source="hernán giraldo" target="saber" id="418" />
+      <edge source="hernán giraldo" target="comunicó" id="419" />
+      <edge source="hernán giraldo" target="habían" id="420" />
+      <edge source="hernán giraldo" target="habían cumplido" id="421" />
+      <edge source="hernán giraldo" target="cumplido" id="422" />
+      <edge source="hernán giraldo" target="quedando" id="423" />
+      <edge source="hernán giraldo" target="averiguar" id="424" />
+      <edge source="hernán giraldo" target="estuvo" id="425" />
+      <edge source="taganga- magdalena" target="pusieran" id="426" />
+      <edge source="taganga- magdalena" target="enteró" id="427" />
+      <edge source="taganga- magdalena" target="había dado" id="428" />
+      <edge source="taganga- magdalena" target="dado" id="429" />
+      <edge source="taganga- magdalena" target="saber" id="430" />
+      <edge source="taganga- magdalena" target="comunicó" id="431" />
+      <edge source="taganga- magdalena" target="habían" id="432" />
+      <edge source="taganga- magdalena" target="habían cumplido" id="433" />
+      <edge source="taganga- magdalena" target="cumplido" id="434" />
+      <edge source="taganga- magdalena" target="quedando" id="435" />
+      <edge source="taganga- magdalena" target="averiguar" id="436" />
+      <edge source="taganga- magdalena" target="estuvo" id="437" />
+      <edge source="pusieran" target="adriano sánchez" id="438" />
+      <edge source="enteró" target="adriano sánchez" id="439" />
+      <edge source="había dado" target="adriano sánchez" id="440" />
+      <edge source="dado" target="adriano sánchez" id="441" />
+      <edge source="saber" target="adriano sánchez" id="442" />
+      <edge source="comunicó" target="adriano sánchez" id="443" />
+      <edge source="habían" target="adriano sánchez" id="444" />
+      <edge source="habían" target="rafael eduardo julio" id="445" />
+      <edge source="habían" target="rancho grande" id="446" />
+      <edge source="habían cumplido" target="adriano sánchez" id="447" />
+      <edge source="cumplido" target="adriano sánchez" id="448" />
+      <edge source="quedando" target="adriano sánchez" id="449" />
+      <edge source="averiguar" target="adriano sánchez" id="450" />
+      <edge source="estuvo" target="adriano sánchez" id="451" />
+      <edge source="estuvo" target="santa marta" id="452" />
+      <edge source="rafael antonio" target="diagrama" id="453" />
+      <edge source="rafael antonio" target="mercedes" id="454" />
+      <edge source="rafael antonio" target="rojas" id="455" />
+      <edge source="rafael antonio" target="mendoza383" id="456" />
+      <edge source="diagrama" target="maría mercedes matos" id="457" />
+      <edge source="mercedes" target="maría mercedes matos" id="458" />
+      <edge source="rojas" target="maría mercedes matos" id="459" />
+      <edge source="mendoza383" target="maría mercedes matos" id="460" />
+      <edge source="jorge eliecer barrios formaris" target="disparar" id="461" />
+      <edge source="jorge eliecer barrios formaris" target="resultó" id="462" />
+      <edge source="disparar" target="ever mariano" id="463" />
+      <edge source="jhon fredy rojas marín" target="permitieron" id="464" />
+      <edge source="jhon fredy rojas marín" target="permitieron establecer" id="465" />
+      <edge source="jhon fredy rojas marín" target="había instaurado" id="466" />
+      <edge source="jhon fredy rojas marín" target="instaurado" id="467" />
+      <edge source="jhon fredy rojas marín" target="señaló" id="468" />
+      <edge source="señaló" target="reynaldo escorcia orozco" id="469" />
+      <edge source="rafael eduardo julio" target="acta" id="470" />
+      <edge source="rafael eduardo julio" target="denuncia" id="471" />
+      <edge source="rafael eduardo julio" target="clip" id="472" />
+      <edge source="rafael eduardo julio" target="andrea" id="473" />
+      <edge source="rafael eduardo julio" target="dirigimos" id="474" />
+      <edge source="rafael eduardo julio" target="sacamos" id="475" />
+      <edge source="rafael eduardo julio" target="estaba" id="476" />
+      <edge source="rafael eduardo julio" target="estaba huyendo" id="477" />
+      <edge source="rafael eduardo julio" target="huyendo" id="478" />
+      <edge source="rafael eduardo julio" target="damos" id="479" />
+      <edge source="rafael eduardo julio" target="encuentra" id="480" />
+      <edge source="rafael eduardo julio" target="estaba robando" id="481" />
+      <edge source="rafael eduardo julio" target="robando" id="482" />
+      <edge source="rafael eduardo julio" target="estaban" id="483" />
+      <edge source="rafael eduardo julio" target="estaban robando" id="484" />
+      <edge source="rafael eduardo julio" target="ubica" id="485" />
+      <edge source="rafael eduardo julio" target="dirijo" id="486" />
+      <edge source="rafael eduardo julio" target="alias" id="487" />
+      <edge source="rafael eduardo julio" target="manifiesta" id="488" />
+      <edge source="rafael eduardo julio" target="habían hecho" id="489" />
+      <edge source="rafael eduardo julio" target="hecho" id="490" />
+      <edge source="rafael eduardo julio" target="asesinaran" id="491" />
+      <edge source="rafael eduardo julio" target="queda" id="492" />
+      <edge source="rafael eduardo julio" target="llegar" id="493" />
+      <edge source="rafael eduardo julio" target="no recuerdo" id="494" />
+      <edge source="rafael eduardo julio" target="recuerdo" id="495" />
+      <edge source="rafael eduardo julio" target="eran" id="496" />
+      <edge source="rafael eduardo julio" target="eran eran" id="497" />
+      <edge source="rafael eduardo julio" target="todavía eran" id="498" />
+      <edge source="rafael eduardo julio" target="señala" id="499" />
+      <edge source="rafael eduardo julio" target="entra" id="500" />
+      <edge source="rafael eduardo julio" target="pone" id="501" />
+      <edge source="rafael eduardo julio" target="tira" id="502" />
+      <edge source="rafael eduardo julio" target="disparo" id="503" />
+      <edge source="rafael eduardo julio" target="disparo pido" id="504" />
+      <edge source="rafael eduardo julio" target="pido" id="505" />
+      <edge source="rafael eduardo julio" target="llego" id="506" />
+      <edge source="rafael eduardo julio" target="metí" id="507" />
+      <edge source="rafael eduardo julio" target="ver" id="508" />
+      <edge source="rafael eduardo julio" target="dimos" id="509" />
+      <edge source="acta" target="pedro luis castro escorciaprotocolo" id="510" />
+      <edge source="clip" target="ciencias forenses" id="511" />
+      <edge source="clip" target="fabián enrique álvarez gutiérrez" id="512" />
+      <edge source="clip" target="carlos romero cuartas" id="513" />
+      <edge source="juan raicar varela silva" target="fueron" id="514" />
+      <edge source="juan raicar varela silva" target="fueron sorprendidos" id="515" />
+      <edge source="juan raicar varela silva" target="sorprendidos" id="516" />
+      <edge source="juan raicar varela silva" target="asesinarlos" id="517" />
+      <edge source="fueron" target="héctor julio ortiz salcedo" id="518" />
+      <edge source="fueron" target="pablo taborda yance" id="519" />
+      <edge source="fueron" target="osvaldo antonio martínez cantillo" id="520" />
+      <edge source="fueron" target="jair josé martes reyes" id="521" />
+      <edge source="fueron" target="evaristo josé mendoza rodríguez" id="522" />
+      <edge source="fueron" target="roberto rafael racedo mercado" id="523" />
+      <edge source="fueron" target="alexander pedroza rojano" id="524" />
+      <edge source="fueron" target="rafael josé segura gómez" id="525" />
+      <edge source="fueron" target="rafael josé segura" id="526" />
+      <edge source="fueron" target="erwin cepeda calao" id="527" />
+      <edge source="fueron" target="ricardo lidueña iglesia" id="528" />
+      <edge source="fueron" target="eduardo rafael" id="529" />
+      <edge source="fueron" target="randi escobar morales" id="530" />
+      <edge source="fueron" target="darwin antonio tejada" id="531" />
+      <edge source="fueron" target="josé luís moreno murillo" id="532" />
+      <edge source="fueron" target="castulo rafael hernández bustamante" id="533" />
+      <edge source="fueron" target="farith enrique zambrano meza" id="534" />
+      <edge source="fueron sorprendidos" target="héctor julio ortiz salcedo" id="535" />
+      <edge source="fueron sorprendidos" target="jair josé martes reyes" id="536" />
+      <edge source="fueron sorprendidos" target="evaristo josé mendoza rodríguez" id="537" />
+      <edge source="fueron sorprendidos" target="roberto rafael racedo mercado" id="538" />
+      <edge source="fueron sorprendidos" target="alexander pedroza rojano" id="539" />
+      <edge source="fueron sorprendidos" target="rafael josé segura gómez" id="540" />
+      <edge source="fueron sorprendidos" target="rafael josé segura" id="541" />
+      <edge source="fueron sorprendidos" target="erwin cepeda calao" id="542" />
+      <edge source="fueron sorprendidos" target="ricardo lidueña iglesia" id="543" />
+      <edge source="fueron sorprendidos" target="darwin antonio tejada" id="544" />
+      <edge source="fueron sorprendidos" target="josé luís moreno murillo" id="545" />
+      <edge source="fueron sorprendidos" target="castulo rafael hernández bustamante" id="546" />
+      <edge source="sorprendidos" target="héctor julio ortiz salcedo" id="547" />
+      <edge source="sorprendidos" target="jair josé martes reyes" id="548" />
+      <edge source="sorprendidos" target="evaristo josé mendoza rodríguez" id="549" />
+      <edge source="sorprendidos" target="roberto rafael racedo mercado" id="550" />
+      <edge source="sorprendidos" target="alexander pedroza rojano" id="551" />
+      <edge source="sorprendidos" target="rafael josé segura gómez" id="552" />
+      <edge source="sorprendidos" target="rafael josé segura" id="553" />
+      <edge source="sorprendidos" target="erwin cepeda calao" id="554" />
+      <edge source="sorprendidos" target="ricardo lidueña iglesia" id="555" />
+      <edge source="sorprendidos" target="darwin antonio tejada" id="556" />
+      <edge source="sorprendidos" target="josé luís moreno murillo" id="557" />
+      <edge source="sorprendidos" target="castulo rafael hernández bustamante" id="558" />
+      <edge source="asesinarlos" target="héctor julio ortiz salcedo" id="559" />
+      <edge source="asesinarlos" target="erwin cepeda calao" id="560" />
+      <edge source="asesinarlos" target="ricardo lidueña iglesia" id="561" />
+      <edge source="asesinarlos" target="eduardo rafael" id="562" />
+      <edge source="asesinarlos" target="randi escobar morales" id="563" />
+      <edge source="asesinarlos" target="rancho grande" id="564" />
+      <edge source="asesinarlos" target="darwin antonio tejada" id="565" />
+      <edge source="asesinarlos" target="josé luís moreno murillo" id="566" />
+      <edge source="asesinarlos" target="castulo rafael hernández bustamante" id="567" />
+      <edge source="chiquito cuello" target="señala" id="568" />
+      <edge source="chiquito cuello" target="fuera" id="569" />
+      <edge source="chiquito cuello" target="fuera acompañar" id="570" />
+      <edge source="chiquito cuello" target="acompañar" id="571" />
+      <edge source="chiquito cuello" target="encontramos" id="572" />
+      <edge source="chiquito cuello" target="estaban" id="573" />
+      <edge source="chiquito cuello" target="estaban ahí incluyendo" id="574" />
+      <edge source="chiquito cuello" target="ahí incluyendo" id="575" />
+      <edge source="chiquito cuello" target="incluyendo" id="576" />
+      <edge source="chiquito cuello" target="estaban consumiendo" id="577" />
+      <edge source="chiquito cuello" target="consumiendo" id="578" />
+      <edge source="chiquito cuello" target="quisieron" id="579" />
+      <edge source="chiquito cuello" target="percataron" id="580" />
+      <edge source="chiquito cuello" target="desenfundando" id="581" />
+      <edge source="chiquito cuello" target="presentó" id="582" />
+      <edge source="señala" target="josé luis" id="583" />
+      <edge source="señala" target="tata chiqui" id="584" />
+      <edge source="señala" target="alias robert" id="585" />
+      <edge source="señala" target="reynaldo orozco escorcia" id="586" />
+      <edge source="estaban" target="jorge ignacio" id="587" />
+      <edge source="presentó" target="ever mariano" id="588" />
+      <edge source="negro sabrosón" target="diéramos" id="589" />
+      <edge source="negro sabrosón" target="estaba" id="590" />
+      <edge source="negro sabrosón" target="enuncie" id="591" />
+      <edge source="estaba" target="ever mariano" id="592" />
+      <edge source="estaba" target="manifestó yance él vivía" id="593" />
+      <edge source="estaba" target="jorge ignacio" id="594" />
+      <edge source="estaba" target="tata chiqui" id="595" />
+      <edge source="edgar ignacio fierro florez" target="aclara" id="596" />
+      <edge source="edgar ignacio fierro florez" target="no había" id="597" />
+      <edge source="edgar ignacio fierro florez" target="no había sido" id="598" />
+      <edge source="edgar ignacio fierro florez" target="había sido comentado" id="599" />
+      <edge source="edgar ignacio fierro florez" target="sido comentado" id="600" />
+      <edge source="edgar ignacio fierro florez" target="comentado" id="601" />
+      <edge source="edgar ignacio fierro florez" target="no había sido comentado" id="602" />
+      <edge source="aclara" target="héctor julio" id="603" />
+      <edge source="no había" target="héctor julio" id="604" />
+      <edge source="no había sido" target="héctor julio" id="605" />
+      <edge source="había sido comentado" target="héctor julio" id="606" />
+      <edge source="sido comentado" target="héctor julio" id="607" />
+      <edge source="comentado" target="héctor julio" id="608" />
+      <edge source="no había sido comentado" target="héctor julio" id="609" />
+      <edge source="ever mariano" target="hubiese" id="610" />
+      <edge source="ever mariano" target="hubiese sucedido" id="611" />
+      <edge source="ever mariano" target="sucedido" id="612" />
+      <edge source="ever mariano" target="estaba atacando" id="613" />
+      <edge source="ever mariano" target="atacando" id="614" />
+      <edge source="ever mariano" target="no eran" id="615" />
+      <edge source="ever mariano" target="eran" id="616" />
+      <edge source="ever mariano" target="haya" id="617" />
+      <edge source="ever mariano" target="haya sucedido" id="618" />
+      <edge source="ever mariano" target="cree" id="619" />
+      <edge source="ever mariano" target="están" id="620" />
+      <edge source="ever mariano" target="están haciendo" id="621" />
+      <edge source="eran" target="jorge ignacio" id="622" />
+      <edge source="eran" target="darwin antonio tejada" id="623" />
+      <edge source="eran" target="josé luís moreno murillo" id="624" />
+      <edge source="eran" target="farith enrique zambrano meza" id="625" />
+      <edge source="ciencias forenses" target="raickard" id="626" />
+      <edge source="pablo taborda yance" target="fueron encontrados" id="627" />
+      <edge source="pablo taborda yance" target="encontrados" id="628" />
+      <edge source="pablo taborda yance" target="pernoctando" id="629" />
+      <edge source="pablo taborda yance" target="atado" id="630" />
+      <edge source="pablo taborda yance" target="acceder" id="631" />
+      <edge source="fueron encontrados" target="osvaldo antonio martínez cantillo" id="632" />
+      <edge source="fueron encontrados" target="farith enrique zambrano meza" id="633" />
+      <edge source="encontrados" target="osvaldo antonio martínez cantillo" id="634" />
+      <edge source="encontrados" target="farith enrique zambrano meza" id="635" />
+      <edge source="pernoctando" target="taborda yance" id="636" />
+      <edge source="pernoctando" target="osvaldo antonio martínez" id="637" />
+      <edge source="atado" target="taborda yance" id="638" />
+      <edge source="atado" target="osvaldo antonio martínez" id="639" />
+      <edge source="acceder" target="taborda yance" id="640" />
+      <edge source="acceder" target="osvaldo antonio martínez" id="641" />
+      <edge source="ricardo martin robert" target="llevó" id="642" />
+      <edge source="ricardo martin robert" target="llevaron" id="643" />
+      <edge source="ricardo martin robert" target="allá también procedieron" id="644" />
+      <edge source="ricardo martin robert" target="también procedieron" id="645" />
+      <edge source="llevaron" target="pedro luis castro escorcia" id="646" />
+      <edge source="llevaron" target="jairo antonio castro escorcia" id="647" />
+      <edge source="llevaron" target="jesús escorcia zarate" id="648" />
+      <edge source="chiqui rey ñoño martin" target="estuvieron" id="649" />
+      <edge source="chiqui rey ñoño martin" target="llevamos" id="650" />
+      <edge source="llevamos" target="jorge ignacio" id="651" />
+      <edge source="llevamos" target="santa marta" id="652" />
+      <edge source="llevamos" target="robert tata" id="653" />
+      <edge source="dirigimos" target="manifestó yance él vivía" id="654" />
+      <edge source="sacamos" target="manifestó yance él vivía" id="655" />
+      <edge source="sacamos" target="jorge ignacio" id="656" />
+      <edge source="sacamos" target="reynaldo orozco escorcia" id="657" />
+      <edge source="estaba huyendo" target="manifestó yance él vivía" id="658" />
+      <edge source="huyendo" target="manifestó yance él vivía" id="659" />
+      <edge source="huyendo" target="robert tata" id="660" />
+      <edge source="damos" target="manifestó yance él vivía" id="661" />
+      <edge source="damos" target="jorge ignacio" id="662" />
+      <edge source="encuentra" target="manifestó yance él vivía" id="663" />
+      <edge source="pedro luis castro escorcia" target="derribar" id="664" />
+      <edge source="pedro luis castro escorcia" target="ingresar" id="665" />
+      <edge source="pedro luis castro escorcia" target="interrogaron" id="666" />
+      <edge source="pedro luis castro escorcia" target="sometido" id="667" />
+      <edge source="pedro luis castro escorcia" target="introdujeron" id="668" />
+      <edge source="pedro luis castro escorcia" target="rompió" id="669" />
+      <edge source="pedro luis castro escorcia" target="informar" id="670" />
+      <edge source="pedro luis castro escorcia" target="trasladados" id="671" />
+      <edge source="pedro luis castro escorcia" target="asesinar" id="672" />
+      <edge source="pedro luis castro escorcia" target="posteriormente pintaron" id="673" />
+      <edge source="pedro luis castro escorcia" target="pintaron" id="674" />
+      <edge source="pedro luis castro escorcia" target="identificado" id="675" />
+      <edge source="derribar" target="jairo antonio castro escorcia" id="676" />
+      <edge source="derribar" target="jesús escorcia zarate" id="677" />
+      <edge source="ingresar" target="jairo antonio castro escorcia" id="678" />
+      <edge source="ingresar" target="jesús escorcia zarate" id="679" />
+      <edge source="interrogaron" target="jairo antonio castro escorcia" id="680" />
+      <edge source="interrogaron" target="jesús escorcia zarate" id="681" />
+      <edge source="sometido" target="jairo antonio castro escorcia" id="682" />
+      <edge source="sometido" target="jesús escorcia zarate" id="683" />
+      <edge source="introdujeron" target="jairo antonio castro escorcia" id="684" />
+      <edge source="introdujeron" target="jesús escorcia zarate" id="685" />
+      <edge source="rompió" target="jairo antonio castro escorcia" id="686" />
+      <edge source="rompió" target="jesús escorcia zarate" id="687" />
+      <edge source="informar" target="jairo antonio castro escorcia" id="688" />
+      <edge source="informar" target="jesús escorcia zarate" id="689" />
+      <edge source="trasladados" target="jairo antonio castro escorcia" id="690" />
+      <edge source="trasladados" target="jesús escorcia zarate" id="691" />
+      <edge source="asesinar" target="jairo antonio castro escorcia" id="692" />
+      <edge source="asesinar" target="jesús escorcia zarate" id="693" />
+      <edge source="asesinar" target="santa marta" id="694" />
+      <edge source="asesinar" target="robert tata" id="695" />
+      <edge source="posteriormente pintaron" target="jairo antonio castro escorcia" id="696" />
+      <edge source="posteriormente pintaron" target="jesús escorcia zarate" id="697" />
+      <edge source="pintaron" target="jairo antonio castro escorcia" id="698" />
+      <edge source="pintaron" target="jesús escorcia zarate" id="699" />
+      <edge source="jairo antonio castro escorcia" target="muestra" id="700" />
+      <edge source="simpson noño robert" target="reunimos" id="701" />
+      <edge source="simpson noño robert" target="buscar" id="702" />
+      <edge source="simpson noño robert" target="no tengo" id="703" />
+      <edge source="simpson noño robert" target="tengo" id="704" />
+      <edge source="edgar ignacio fierro flores" target="profirió" id="705" />
+      <edge source="edgar ignacio fierro flores" target="existe" id="706" />
+      <edge source="jair josé martes reyes" target="dejando" id="707" />
+      <edge source="jair josé martes reyes" target="cobrar" id="708" />
+      <edge source="dejando" target="evaristo josé mendoza rodríguez" id="709" />
+      <edge source="dejando" target="roberto rafael racedo mercado" id="710" />
+      <edge source="dejando" target="alexander pedroza rojano" id="711" />
+      <edge source="dejando" target="rafael josé segura gómez" id="712" />
+      <edge source="dejando" target="rafael josé segura" id="713" />
+      <edge source="cobrar" target="evaristo josé mendoza rodríguez" id="714" />
+      <edge source="cobrar" target="roberto rafael racedo mercado" id="715" />
+      <edge source="cobrar" target="alexander pedroza rojano" id="716" />
+      <edge source="estaba robando" target="jorge ignacio" id="717" />
+      <edge source="robando" target="jorge ignacio" id="718" />
+      <edge source="estaban robando" target="jorge ignacio" id="719" />
+      <edge source="ubica" target="jorge ignacio" id="720" />
+      <edge source="dirijo" target="jorge ignacio" id="721" />
+      <edge source="jorge ignacio" target="dejamos" id="722" />
+      <edge source="jorge ignacio" target="jorge" id="723" />
+      <edge source="jorge ignacio" target="jorge ignacio" id="724" />
+      <edge source="jorge ignacio" target="ignacio" id="725" />
+      <edge source="jorge ignacio" target="asesinen" id="726" />
+      <edge source="eduardo rafael" target="seguidamente fueron" id="727" />
+      <edge source="eduardo rafael" target="fueron llevados" id="728" />
+      <edge source="eduardo rafael" target="llevados" id="729" />
+      <edge source="eduardo rafael" target="seguidamente fueron llevados" id="730" />
+      <edge source="seguidamente fueron" target="randi escobar morales" id="731" />
+      <edge source="fueron llevados" target="randi escobar morales" id="732" />
+      <edge source="llevados" target="randi escobar morales" id="733" />
+      <edge source="seguidamente fueron llevados" target="randi escobar morales" id="734" />
+      <edge source="rancho grande" target="había tenido" id="735" />
+      <edge source="rancho grande" target="tenido" id="736" />
+      <edge source="rancho grande" target="habían hurtado" id="737" />
+      <edge source="rancho grande" target="hurtado" id="738" />
+      <edge source="rancho grande" target="informaron" id="739" />
+      <edge source="rancho grande" target="habían sido" id="740" />
+      <edge source="rancho grande" target="cometieron" id="741" />
+      <edge source="rancho grande" target="entrar" id="742" />
+      <edge source="darwin antonio tejada" target="eran acusados" id="743" />
+      <edge source="darwin antonio tejada" target="acusados" id="744" />
+      <edge source="darwin antonio tejada" target="realizar" id="745" />
+      <edge source="eran acusados" target="josé luís moreno murillo" id="746" />
+      <edge source="acusados" target="josé luís moreno murillo" id="747" />
+      <edge source="realizar" target="josé luís moreno murillo" id="748" />
+      <edge source="según precisó" target="precisó" id="749" />
+      <edge source="según precisó" target="perteneció" id="750" />
+      <edge source="según precisó" target="había desertado" id="751" />
+      <edge source="según precisó" target="desertado" id="752" />
+      <edge source="julio soldadito camilo chiqui" target="participe" id="753" />
+      <edge source="julio soldadito camilo chiqui" target="hizo" id="754" />
+      <edge source="julio soldadito camilo chiqui" target="desplazamos" id="755" />
+      <edge source="julio soldadito camilo chiqui" target="no dispare" id="756" />
+      <edge source="julio soldadito camilo chiqui" target="dispare" id="757" />
+      <edge source="julio soldadito camilo chiqui" target="dispare preste" id="758" />
+      <edge source="julio soldadito camilo chiqui" target="preste" id="759" />
+      <edge source="julio soldadito camilo chiqui" target="no dispare preste" id="760" />
+      <edge source="hizo" target="disparo robert" id="761" />
+      <edge source="santa marta" target="acepte" id="762" />
+      <edge source="santa marta" target="escapó" id="763" />
+      <edge source="santa marta" target="procedí" id="764" />
+      <edge source="santa marta" target="metimos" id="765" />
+      <edge source="santa marta" target="ahí asesinamos" id="766" />
+      <edge source="santa marta" target="asesinamos" id="767" />
+      <edge source="santa marta" target="vamos" id="768" />
+      <edge source="vamos" target="robert tata" id="769" />
+      <edge source="robert tata" target="recomienda" id="770" />
+      <edge source="robert tata" target="ya lleva" id="771" />
+      <edge source="robert tata" target="lleva" id="772" />
+      <edge source="robert tata" target="descargaran" id="773" />
+      <edge source="robert tata" target="quedo" id="774" />
+      <edge source="robert tata" target="quedo afuera" id="775" />
+      <edge source="robert tata" target="afuera" id="776" />
+      <edge source="robert tata" target="creo" id="777" />
+      <edge source="robert tata" target="hicimos" id="778" />
+      <edge source="robert tata" target="regresa" id="779" />
+      <edge source="robert tata" target="había invadido" id="780" />
+      <edge source="robert tata" target="invadido" id="781" />
+      <edge source="robert tata" target="escoge" id="782" />
+      <edge source="tata chiqui" target="llegue" id="783" />
+      <edge source="tata chiqui" target="asesine" id="784" />
+      <edge source="tata chiqui" target="disparo" id="785" />
+      <edge source="asesine" target="reynaldo orozco escorcia" id="786" />
+      <edge source="disparo" target="alias robert" id="787" />
+      <edge source="entra" target="alias robert" id="788" />
+      <edge source="pone" target="alias robert" id="789" />
+      <edge source="tira" target="alias robert" id="790" />
+      <edge source="disparo pido" target="alias robert" id="791" />
+      <edge source="pido" target="alias robert" id="792" />
+      <edge source="diario el heraldo" target="registra" id="793" />
+      <edge source="diario el heraldo" target="sufrido" id="794" />
+      <edge source="farith enrique zambrano meza" target="fueron asesinados" id="795" />
+      <edge source="farith enrique zambrano meza" target="asesinados" id="796" />
+      <edge source="reynaldo orozco escorcia" target="rodeamos" id="797" />
+    </edges>
+  </graph>
+</gexf>
